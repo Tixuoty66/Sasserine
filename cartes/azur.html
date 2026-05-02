@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Carte du Quartier Azur</title>
+
+  <link rel="stylesheet" href="/assets/stylesheets/extra.css">
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #1e2129;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .interactive-map {
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+      background: #1e2129;
+      overflow: hidden;
+    }
+
+    .map-stage {
+      position: absolute;
+      inset: 12px;
+    }
+
+    .map-image {
+      position: absolute;
+      display: block;
+      box-shadow: 0 16px 40px rgba(0,0,0,.35);
+      border-radius: 12px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="interactive-map">
+    <div class="map-stage" id="map-stage">
+
+      <img
+        id="map-image"
+        class="map-image"
+        src="/assets/images/quartier-azur.webp"
+        alt="Carte du Quartier Azur"
+        data-native-width="1431"
+        data-native-height="1697"
+      >
+
+      <a class="map-icon map-back"
+         data-x="206"
+         data-y="70"
+         href="/cartes/sasserine.html">
+        <span class="map-back-label">Sasserine</span>
+      </a>
+
+      <!-- Icône quartier -->
+      <a class="map-icon map-icon-special"
+         data-x="200"
+         data-y="120"
+         href="/quartiers/azur/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/quartier.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="icon-label">Quartier Azur</span>
+        <span class="tooltip">
+          <strong>Présentation du quartier</strong>
+        </span>
+      </a>
+
+      <!-- Guilde des dragueurs -->
+      <a class="map-icon icon-guilde tooltip-right"
+         data-x="51"
+         data-y="968"
+         href="/lieux/guilde-dragueurs/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/guilde.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Guilde des dragueurs de fonds</strong>
+          Un lieu à la réputation ambiguë, à mi-chemin entre entreprise maritime indispensable et repaire de charognards des profondeurs.
+        </span>
+      </a>
+
+      <!-- Filets de Nate -->
+      <a class="map-icon icon-commerce"
+         data-x="290"
+         data-y="890"
+         href="/lieux/filets-de-nate/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/commerce.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Les Filets de Nate</strong>
+          Un lieu où les aventuriers et pêcheurs de passage trouveront bien plus que du matériel.
+        </span>
+      </a>
+
+      <!-- Dernière Gorgée -->
+      <a class="map-icon icon-taverne"
+         data-x="373"
+         data-y="562"
+         href="/lieux/derniere-gorgee/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/taverne.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>La Dernière Gorgée</strong>
+          Une taverne discrète et enfumée, fréquentée par les marins.
+        </span>
+      </a>
+
+      <!-- Pélican Rouge -->
+      <a class="map-icon icon-taverne"
+         data-x="436"
+         data-y="724"
+         href="/lieux/pelican-rouge/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/taverne.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Le Pélican Rouge</strong>
+          On y vient pour manger chaud, dormir sans se faire détrousser, engager un marin, retrouver un contact… ou entendre une rumeur avant qu’elle ne devienne nouvelle.
+        </span>
+      </a>
+
+      <!-- Antre de la Mouette -->
+      <a class="map-icon icon-taverne"
+         data-x="789"
+         data-y="814"
+         href="/lieux/antre-mouette/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/taverne.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>L'Antre de la Mouette</strong>
+          Bien plus qu'un simple lieu de plaisir, c'est un sanctuaire pour les âmes fatiguées.
+        </span>
+      </a>
+
+      <!-- Cathédrale -->
+      <a class="map-icon icon-temple"
+         data-x="1281"
+         data-y="653"
+         href="/lieux/cathedrale-azur/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/temple.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Cathédrale Azur</strong>
+          Un sanctuaire de paix et de protection.
+        </span>
+      </a>
+
+      <!-- Tatoueurs -->
+      <a class="map-icon icon-guilde"
+         data-x="883"
+         data-y="371"
+         href="/lieux/guilde-tatoueurs/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/guilde.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Guilde des Tatoueurs</strong>
+          Un lieu empreint de mysticisme et de tradition.
+        </span>
+      </a>
+
+      <!-- Baleiniers -->
+      <a class="map-icon icon-guilde"
+         data-x="881"
+         data-y="185"
+         href="/lieux/guilde-baleiniers/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/guilde.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Guilde des Baleiniers</strong>
+          Un lieu central pour ceux qui s'intéressent à la mer et à ses périls.
+        </span>
+      </a>
+
+    </div>
+  </div>
+
+  <script>
+    function layoutMap() {
+      const stage = document.getElementById('map-stage');
+      const img = document.getElementById('map-image');
+
+      const nativeW = 1431;
+      const nativeH = 1697;
+
+      const stageW = stage.clientWidth;
+      const stageH = stage.clientHeight;
+
+      const scale = Math.min(stageW / nativeW, stageH / nativeH);
+
+      const renderW = nativeW * scale;
+      const renderH = nativeH * scale;
+
+      const offsetX = (stageW - renderW) / 2;
+      const offsetY = (stageH - renderH) / 2;
+
+      img.style.width = renderW + 'px';
+      img.style.height = renderH + 'px';
+      img.style.left = offsetX + 'px';
+      img.style.top = offsetY + 'px';
+
+      document.querySelectorAll('.map-icon').forEach(el => {
+        const x = parseFloat(el.dataset.x);
+        const y = parseFloat(el.dataset.y);
+
+        el.style.left = (offsetX + x * scale) + 'px';
+        el.style.top = (offsetY + y * scale) + 'px';
+      });
+    }
+
+    window.addEventListener('load', layoutMap);
+    window.addEventListener('resize', layoutMap);
+  </script>
+</body>
+</html>

@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Carte générale de Sasserine</title>
+  <link rel="stylesheet" href="/assets/stylesheets/extra.css">
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #1e2129;
+    }
+
+    .interactive-map {
+      position: relative;
+      width: 100vw;
+      margin: 0;
+      background: #1e2129;
+      padding: 12px;
+      box-sizing: border-box;
+    }
+
+    .interactive-map img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 12px;
+      box-shadow: 0 16px 40px rgba(0,0,0,.35);
+    }
+
+    .map-overlay {
+      position: absolute;
+      inset: 12px;
+      width: calc(100% - 24px);
+      height: calc(100% - 24px);
+      z-index: 2;
+    }
+
+    .map-overlay svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+      overflow: visible;
+    }
+
+    .zone-link {
+      cursor: pointer;
+    }
+
+    .zone {
+      fill-opacity: 0.14;
+      stroke-width: 8;
+      transition: fill-opacity .15s ease, stroke-width .15s ease;
+    }
+
+    .zone-link:hover .zone {
+      fill-opacity: 0.26;
+      stroke-width: 11;
+    }
+
+    .zone-ombrerive { fill: #111111; stroke: #111111; }
+    .zone-noble { fill: #f97316; stroke: #f97316; }
+    .zone-champions { fill: #facc15; stroke: #facc15; }
+    .zone-cudgel { fill: #ffffff; stroke: #ffffff; }
+    .zone-levant { fill: #22c55e; stroke: #22c55e; }
+    .zone-azur { fill: #2563eb; stroke: #2563eb; }
+    .zone-marchands { fill: #dc2626; stroke: #dc2626; }
+
+    /* zone Sasserine invisible mais cliquable */
+    .zone-sasserine {
+      fill: transparent;
+      stroke: transparent;
+      fill-opacity: 0;
+      stroke-opacity: 0;
+    }
+
+    .map-html-tooltip {
+      position: absolute;
+      z-index: 20;
+      min-width: 180px;
+      max-width: 320px;
+      padding: .65rem .8rem;
+      border-radius: 8px;
+      background: rgba(20,24,28,.96);
+      color: white;
+      box-shadow: 0 10px 26px rgba(0,0,0,.35);
+      pointer-events: none;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .map-html-tooltip-title {
+      font-size: .95rem;
+      font-weight: 700;
+      margin-bottom: .2rem;
+    }
+
+    .map-html-tooltip-desc {
+      font-size: .78rem;
+      line-height: 1.35;
+      color: rgba(255,255,255,.92);
+    }
+  </style>
+</head>
+<body class="map-page">
+  <div class="interactive-map">
+    <img src="/assets/images/sasserine.webp" alt="Carte de Sasserine">
+
+    <div class="map-overlay">
+      <svg viewBox="0 0 4399 3105" preserveAspectRatio="xMidYMid meet" aria-hidden="false">
+
+        <a class="zone-link"
+           href="/sasserine/"
+           data-title="Sasserine"
+           data-desc="Présentation générale de la cité">
+          <polygon class="zone zone-sasserine"
+            points="973,113 923,307 115,323 165,101" />
+        </a>
+
+        <a class="zone-link"
+           href="/cartes/ombrerive.html"
+           data-title="Ombrerive"
+           data-desc="Quartier rude, violent et profondément corrompu">
+          <polygon class="zone zone-ombrerive"
+            points="1558,1133 1457,1191 1267,1183 1174,1156 1220,1051 1197,892 1278,756 1453,721 1640,717 1753,717 1857,666 2098,511 2184,597 2180,768 2133,923 1881,1047 1663,1090" />
+        </a>
+
+        <a class="zone-link"
+           href="/cartes/noble.html"
+           data-title="Quartier Noble"
+           data-desc="Pouvoir, institutions et prestige">
+          <polygon class="zone zone-noble"
+            points="2141,278 2370,243 2530,208 2744,169 2949,185 3167,188 3396,181 3696,223 4022,251 4139,402 4146,639 4041,830 3952,935 3816,888 3676,923 3637,1226 3008,1203 2915,1016 2565,818 2339,814 2203,523" />
+        </a>
+
+        <a class="zone-link"
+           href="/cartes/champions.html"
+           data-title="Quartier des Champions"
+           data-desc="Arène, force et culture martiale">
+          <polygon class="zone zone-champions"
+            points="497,707 587,630 606,517 796,412 987,354 1119,272 1329,315 1410,295 1578,323 1787,326 1873,424 1947,579 1853,637 1733,696 1317,692 1216,789 1177,921 882,933 703,902 556,797" />
+        </a>
+
+        <a class="zone-link"
+           href="/cartes/cudgel.html"
+           data-title="Quartier Cudgel"
+           data-desc="Artisans, foyers et résilience">
+          <polygon class="zone zone-cudgel"
+            points="1360,2184 1484,2277 1578,2374 1585,2491 1496,2701 1414,2790 1263,2810 1224,2876 1034,2852 847,2740 754,2440 742,2219 727,1830 610,1757 361,1722 354,1539 323,1446 357,1259 350,968 377,793 462,680 567,839 746,929 898,952 1104,940 1185,925 1193,1030 1131,1139 1189,1259 1154,1671 1185,1741 1282,1811 1244,1978 1345,2056" />
+        </a>
+
+        <a class="zone-link"
+           href="/cartes/levant.html"
+           data-title="Le Levant"
+           data-desc="Lumière, fleuve et calme relatif">
+          <polygon class="zone zone-levant"
+            points="1278,2891 1469,2821 1539,2724 1783,2328 2114,2308 2304,2126 2452,2028 2600,1997 2701,1997 2965,1916 3486,2001 3614,2063 3894,2145 4006,2137 3940,2316 4018,2483 4014,2689 3925,2872 3738,2934 3353,2930 3326,2852 3132,2810 2984,2825 2895,2899 2126,2911 1803,2860 1694,2938 1376,2926" />
+        </a>
+
+        <a class="zone-link"
+           href="/cartes/azur.html"
+           data-title="Quartier Azur"
+           data-desc="Le grand quartier maritime">
+          <polygon class="zone zone-azur"
+            points="4014,981 3832,904 3699,938 3657,1164 3622,1280 3548,1323 3474,1269 3183,1222 3082,1249 3093,1420 3109,1514 3105,1848 3525,1988 3587,2023 3843,2124 3937,2135 4038,2155 4162,1766 4166,1537 4139,1284 4014,1098" />
+        </a>
+
+        <a class="zone-link"
+           href="/cartes/marchands.html"
+           data-title="Quartier des Marchands"
+           data-desc="Commerce, richesse et circulation">
+          <polygon class="zone zone-marchands"
+            points="1613,1119 1842,1065 2013,1135 2133,1100 2258,1166 2448,1170 2584,987 2716,987 2965,1174 3043,1294 3078,1512 3066,1741 2895,1881 2705,1962 2530,1997 2433,1994 2211,2145 2141,2219 1986,2246 1613,2242 1372,2071 1321,1893 1259,1683 1181,1644 1216,1220 1473,1212" />
+        </a>
+
+      </svg>
+    </div>
+
+    <div id="map-tooltip" class="map-html-tooltip" hidden>
+      <div class="map-html-tooltip-title"></div>
+      <div class="map-html-tooltip-desc"></div>
+    </div>
+  </div>
+
+  <script>
+    const tooltip = document.getElementById('map-tooltip');
+    const titleEl = tooltip.querySelector('.map-html-tooltip-title');
+    const descEl = tooltip.querySelector('.map-html-tooltip-desc');
+    const zoneLinks = document.querySelectorAll('.zone-link');
+    const map = document.querySelector('.interactive-map');
+
+    zoneLinks.forEach(link => {
+      link.addEventListener('mouseenter', () => {
+        const title = link.dataset.title;
+        const desc = link.dataset.desc;
+
+        if (!title && !desc) return;
+
+        titleEl.textContent = title || '';
+        descEl.textContent = desc || '';
+        tooltip.hidden = false;
+      });
+
+      link.addEventListener('mousemove', (e) => {
+        const rect = map.getBoundingClientRect();
+        const offsetX = 18;
+        const offsetY = 18;
+
+        let left = e.clientX - rect.left + offsetX;
+        let top = e.clientY - rect.top + offsetY;
+
+        tooltip.style.left = `${left}px`;
+        tooltip.style.top = `${top}px`;
+
+        const tipRect = tooltip.getBoundingClientRect();
+        const mapRect = map.getBoundingClientRect();
+
+        if (tipRect.right > mapRect.right) {
+          left = e.clientX - rect.left - tipRect.width - 18;
+          tooltip.style.left = `${left}px`;
+        }
+
+        if (tipRect.bottom > mapRect.bottom) {
+          top = e.clientY - rect.top - tipRect.height - 18;
+          tooltip.style.top = `${top}px`;
+        }
+      });
+
+      link.addEventListener('mouseleave', () => {
+        tooltip.hidden = true;
+      });
+    });
+  </script>
+</body>
+</html>
