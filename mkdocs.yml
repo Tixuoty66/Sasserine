@@ -1,0 +1,50 @@
+site_name: Sasserine
+site_description: Atlas interactif de Sasserine
+site_url: ""
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: amber
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - glightbox
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Accueil: index.md
+  - Sasserine: sasserine.md
+  - Cartes:
+      - Carte générale: cartes/sasserine.html
+      - Quartier Azur: cartes/azur.html
+      - Quartier des Champions: cartes/champions.html
+      - Quartier Noble: cartes/noble.html
+      - Ombrerive: cartes/ombrerive.html
+  - Quartiers:
+      - Quartier Azur: quartiers/azur.md
+      - Quartier des Champions: quartiers/champions.md
+      - Quartier Cudgel: quartiers/cudgel.md
+      - Quartier des Marchands: quartiers/marchands.md
+      - Quartier Noble: quartiers/noble.md
+      - Ombrerive: quartiers/ombrerive.md
+      - Le Levant: quartiers/levant.md

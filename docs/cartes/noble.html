@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Carte du Quartier Noble</title>
+
+  <link rel="stylesheet" href="/assets/stylesheets/extra.css">
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #1e2129;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .interactive-map {
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+      background: #1e2129;
+      overflow: hidden;
+    }
+
+    .map-stage {
+      position: absolute;
+      inset: 12px;
+    }
+
+    .map-image {
+      position: absolute;
+      display: block;
+      box-shadow: 0 16px 40px rgba(0,0,0,.35);
+      border-radius: 12px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="interactive-map">
+    <div class="map-stage" id="map-stage">
+
+      <img
+        id="map-image"
+        class="map-image"
+        src="/assets/images/quartier-noble.webp"
+        alt="Carte du Quartier Noble"
+        data-native-width="2200"
+        data-native-height="1230"
+      >
+
+      <a class="map-icon map-back"
+         data-x="306"
+         data-y="850"
+         href="/cartes/sasserine.html">
+        <span class="map-back-label">Sasserine</span>
+      </a>
+
+      <!-- Icône quartier -->
+      <a class="map-icon map-icon-special"
+         data-x="300"
+         data-y="900"
+         href="/quartiers/noble/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/quartier.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="icon-label">Quartier Noble</span>
+        <span class="tooltip">
+          <strong>Présentation du quartier</strong>
+        </span>
+      </a>
+
+      <!-- Maison Hautmur -->
+      <a class="map-icon icon-commerce"
+         data-x="289"
+         data-y="167"
+         href="/lieux/maison-hautmur/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/commerce.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Maison Hautmur</strong>
+          Le maître des lieux est réputé pour son savoir sur la géographie de la région.
+        </span>
+      </a>
+
+      <!-- Tour des Sorcières -->
+      <a class="map-icon icon-guilde"
+         data-x="535"
+         data-y="427"
+         href="/lieux/tour-des-sorcieres/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/guilde.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Tour des Sorcières</strong>
+          La Guilde des arcanistes du quartier.
+        </span>
+      </a>
+
+      <!-- La Perle et le Perroquet -->
+      <a class="map-icon icon-taverne"
+         data-x="765"
+         data-y="435"
+         href="/lieux/la-perle-et-le-perroquet/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/taverne.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>La Perle et le Perroquet</strong>
+          Une taverne-auberge raffinée, bien connue du Quartier Noble.
+        </span>
+      </a>
+
+      <!-- Opéra de Sasserine -->
+      <a class="map-icon icon-monument"
+         data-x="1068"
+         data-y="600"
+         href="/lieux/opera-de-sasserine/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/monument.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Opéra de Sasserine</strong>
+          L’un des grands lieux de spectacle et de prestige de la cité.
+        </span>
+      </a>
+
+      <!-- Aiguille de Callisto -->
+      <a class="map-icon icon-commerce tooltip-left"
+         data-x="1843"
+         data-y="495"
+         href="/lieux/aiguille-de-callisto/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/commerce.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Aiguille de Callisto</strong>
+          Un salon de tatouage singulier, tenu par un expert des plans d’existence.
+        </span>
+      </a>
+
+      <!-- Temple de Wee Jas -->
+      <a class="map-icon icon-temple"
+         data-x="1633"
+         data-y="733"
+         href="/lieux/temple-de-wee-jas/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/temple.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Temple de Wee Jas</strong>
+          Un lieu où s’entrelacent respect pour les traditions, politique et mystère.
+        </span>
+      </a>
+
+    </div>
+  </div>
+
+  <script>
+    function layoutMap() {
+      const stage = document.getElementById('map-stage');
+      const img = document.getElementById('map-image');
+
+      const nativeW = 2200;
+      const nativeH = 1230;
+
+      const stageW = stage.clientWidth;
+      const stageH = stage.clientHeight;
+
+      const scale = Math.min(stageW / nativeW, stageH / nativeH);
+
+      const renderW = nativeW * scale;
+      const renderH = nativeH * scale;
+
+      const offsetX = (stageW - renderW) / 2;
+      const offsetY = (stageH - renderH) / 2;
+
+      img.style.width = renderW + 'px';
+      img.style.height = renderH + 'px';
+      img.style.left = offsetX + 'px';
+      img.style.top = offsetY + 'px';
+
+      document.querySelectorAll('.map-icon').forEach(el => {
+        const x = parseFloat(el.dataset.x);
+        const y = parseFloat(el.dataset.y);
+
+        el.style.left = (offsetX + x * scale) + 'px';
+        el.style.top = (offsetY + y * scale) + 'px';
+      });
+    }
+
+    window.addEventListener('load', layoutMap);
+    window.addEventListener('resize', layoutMap);
+  </script>
+</body>
+</html>

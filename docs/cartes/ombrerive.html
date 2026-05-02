@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Carte d'Ombrerive</title>
+
+  <link rel="stylesheet" href="/assets/stylesheets/extra.css">
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #1e2129;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .interactive-map {
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+      background: #1e2129;
+      overflow: hidden;
+    }
+
+    .map-stage {
+      position: absolute;
+      inset: 12px;
+    }
+
+    .map-image {
+      position: absolute;
+      display: block;
+      box-shadow: 0 16px 40px rgba(0,0,0,.35);
+      border-radius: 12px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="interactive-map">
+    <div class="map-stage" id="map-stage">
+
+      <img
+        id="map-image"
+        class="map-image"
+        src="/assets/images/quartier-ombrerive.webp"
+        alt="Carte d'Ombrerive"
+        data-native-width="1520"
+        data-native-height="966"
+      >
+
+      <a class="map-icon map-back"
+         data-x="206"
+         data-y="70"
+         href="/cartes/sasserine.html">
+        <span class="map-back-label">Sasserine</span>
+      </a>
+
+      <!-- Icône quartier -->
+      <a class="map-icon map-icon-special"
+         data-x="200"
+         data-y="120"
+         href="/quartiers/ombrerive/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/quartier.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="icon-label">Ombrerive</span>
+        <span class="tooltip">
+          <strong>Présentation du quartier</strong>
+        </span>
+      </a>
+
+      <!-- Garnison d'Ombrerive -->
+      <a class="map-icon icon-monument"
+         data-x="174"
+         data-y="611"
+         href="/lieux/garnison-dombrerive/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/monument.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Garnison d'Ombrerive</strong>
+          Le symbole fragile d’un ordre souvent débordé, parfois complice, dans le plus sombre des quartiers de Sasserine.
+        </span>
+      </a>
+
+      <!-- Sanctuaire de St. Worgul -->
+      <a class="map-icon icon-temple"
+         data-x="322"
+         data-y="450"
+         href="/lieux/sanctuaire-de-st-worgul/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/temple.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Sanctuaire de St. Worgul</strong>
+          Un refuge spirituel austère, fréquenté par ceux qui vivent dans la boue, la peur et la débrouille.
+        </span>
+      </a>
+
+      <!-- La Hache Ébréchée -->
+      <a class="map-icon icon-guilde"
+         data-x="493"
+         data-y="343"
+         href="/lieux/la-hache-ebrechee/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/guilde.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>La Hache Ébréchée</strong>
+          Une guilde de mercenaires rude et directe, où l’on vend sa lame sans se soucier des scrupules.
+        </span>
+      </a>
+
+      <!-- Manoir des Dracktus -->
+      <a class="map-icon icon-manoir"
+         data-x="492"
+         data-y="576"
+         href="/lieux/manoir-des-dracktus/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/manoir.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Manoir des Dracktus</strong>
+          Une demeure sinistre et dominante, siège du pouvoir brutal qui tient Ombrerive d’une main sale.
+        </span>
+      </a>
+
+      <!-- Comptoir d'Amedio -->
+      <a class="map-icon icon-commerce"
+         data-x="868"
+         data-y="615"
+         href="/lieux/comptoir-damedio/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/commerce.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Comptoir d'Amedio</strong>
+          Une maison de commerce prospère, énigmatique et solidement implantée dans ce quartier peu recommandable.
+        </span>
+      </a>
+
+      <!-- Compagnie du Bouclier Noir -->
+      <a class="map-icon icon-guilde tooltip-left"
+         data-x="1123"
+         data-y="319"
+         href="/lieux/compagnie-du-bouclier-noir/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/guilde.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Compagnie du Bouclier Noir</strong>
+          Une autre guilde de mercenaires, plus structurée peut-être, mais guère plus rassurante.
+        </span>
+      </a>
+
+      <!-- Guilde des charpentiers navals -->
+      <a class="map-icon icon-guilde tooltip-left"
+         data-x="1192"
+         data-y="353"
+         href="/lieux/guilde-des-charpentiers-navals/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/guilde.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Guilde des charpentiers navals</strong>
+          Un atelier essentiel aux activités du quartier, où le bois, le goudron et les affaires louches se croisent sans cesse.
+        </span>
+      </a>
+
+      <!-- Les Trouvailles de Shank -->
+      <a class="map-icon icon-commerce tooltip-left tooltip-below"
+         data-x="1099"
+         data-y="273"
+         href="/lieux/les-trouvailles-de-shank/">
+        <span class="icon-wrap">
+          <img src="/assets/icons/commerce.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Les Trouvailles de Shank</strong>
+          Une boutique d’armes bon marché, où l’on peut parfois dénicher bien plus que ce qui devrait s’y trouver.
+        </span>
+      </a>
+
+    </div>
+  </div>
+
+  <script>
+    function layoutMap() {
+      const stage = document.getElementById('map-stage');
+      const img = document.getElementById('map-image');
+
+      const nativeW = 1520;
+      const nativeH = 966;
+
+      const stageW = stage.clientWidth;
+      const stageH = stage.clientHeight;
+
+      const scale = Math.min(stageW / nativeW, stageH / nativeH);
+
+      const renderW = nativeW * scale;
+      const renderH = nativeH * scale;
+
+      const offsetX = (stageW - renderW) / 2;
+      const offsetY = (stageH - renderH) / 2;
+
+      img.style.width = renderW + 'px';
+      img.style.height = renderH + 'px';
+      img.style.left = offsetX + 'px';
+      img.style.top = offsetY + 'px';
+
+      document.querySelectorAll('.map-icon').forEach(el => {
+        const x = parseFloat(el.dataset.x);
+        const y = parseFloat(el.dataset.y);
+
+        el.style.left = (offsetX + x * scale) + 'px';
+        el.style.top = (offsetY + y * scale) + 'px';
+      });
+    }
+
+    window.addEventListener('load', layoutMap);
+    window.addEventListener('resize', layoutMap);
+  </script>
+</body>
+</html>
