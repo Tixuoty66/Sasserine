@@ -1,6 +1,6 @@
 # Aiguille de Callisto
 
-![](../assets/images/fiche-aiguille-de-callisto.webp)
+![](../assets/images/fiche-aiguille-de-callisto.webp){.center}
 
 L’Aiguille de Callisto est bien plus qu’un simple salon de tatouage : c’est un pont entre les mondes, un lieu où le corps devient une carte et où chaque encre raconte une histoire qui dépasse le cadre du réel. Un endroit idéal pour ceux qui cherchent à inscrire leur destin dans la peau… ou à effleurer les mystères de l’univers.
 

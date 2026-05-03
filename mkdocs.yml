@@ -38,8 +38,11 @@ nav:
       - Sasserine: cartes/sasserine.html
       - Quartier Azur: cartes/azur.html
       - Quartier des Champions: cartes/champions.html
+      - Quartier Cudgel: cartes/cudgel.html
+      - Quartier des Marchands: cartes/marchands.html
       - Quartier Noble: cartes/noble.html
       - Ombrerive: cartes/ombrerive.html
+      - Le Levant: cartes/levant.html
   - La description des quartiers:
       - Quartier Azur: quartiers/azur.md
       - Quartier des Champions: quartiers/champions.md
