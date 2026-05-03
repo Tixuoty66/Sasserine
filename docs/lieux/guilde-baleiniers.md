@@ -1,10 +1,12 @@
 # Guilde des Baleiniers
 
-![](/assets/images/guilde-des-baleiniers.webp){.center}
+![](../assets/images/fiche-guilde-des-baleiniers.webp){.center}
 
 La Guilde des Baleiniers est un lieu central pour les joueurs qui s’intéressent à la mer et à ses périls. Que ce soit pour obtenir des informations sur les routes maritimes, négocier un passage sur un navire baleinier, ou simplement écouter les récits captivants du capitaine Shadwik, cet endroit offre une immersion totale dans le monde rude et fascinant des chasseurs des océans.
 
 ### Extérieur de la guilde
+
+![](../assets/images/guilde-des-baleiniers.webp){.center}
 
 La Guilde des Baleiniers est un grand bâtiment en pierre brute, solidement construit pour résister aux vents salins et aux intempéries, typiques des ports où les navires baleiniers accostent. Une gigantesque mâchoire de baleine, blanchie par le temps, encadre l’entrée principale, offrant une vision imposante à ceux qui s’en approchent. Au-dessus de la porte, un panneau sculpté représente une scène de chasse au harpon, avec des hommes affrontant une baleine titanesque sur une mer agitée. L’odeur iodée et légèrement huileuse du quartier se fait plus prononcée à mesure qu’on s’approche.
 
@@ -18,9 +20,9 @@ Des tables massives occupent le centre de la pièce principale, où les membres 
 
 #### Le Maître de la Guilde
 
-![](/assets/Images/capitaine-shadwik.webp){.float-right .img-150}
+![](../assets/images/capitaine-shadwik.webp){.float-right .img-150}
 
-Le [capitaine Shadwik](/pnj/capitaine-shadwik/) est un homme trapu, à la silhouette solide comme un roc malgré son âge avancé. Ses épaules larges et ses mains noueuses témoignent de décennies passées à manier le harpon et à diriger des équipages dans les eaux dangereuses. Ses cheveux gris coupés court et sa barbe épaisse sont souvent éclaboussés de sel ou d’huile de baleine, comme s’il venait tout juste de quitter un navire. Ses yeux d’un bleu perçant semblent lire à travers les hommes comme s’il jaugeait leur valeur sur le pont d’un bateau.
+Le [capitaine Shadwik](../pnj/capitaine-shadwik.md) est un homme trapu, à la silhouette solide comme un roc malgré son âge avancé. Ses épaules larges et ses mains noueuses témoignent de décennies passées à manier le harpon et à diriger des équipages dans les eaux dangereuses. Ses cheveux gris coupés court et sa barbe épaisse sont souvent éclaboussés de sel ou d’huile de baleine, comme s’il venait tout juste de quitter un navire. Ses yeux d’un bleu perçant semblent lire à travers les hommes comme s’il jaugeait leur valeur sur le pont d’un bateau.
 
 Shadwik a fait fortune en tant que capitaine de L’Écumeur des Profondeurs, un baleinier légendaire qui a rapporté plus de prises qu’aucun autre navire de la région. Aujourd’hui trop âgé pour prendre la mer, il consacre son temps à représenter les intérêts des baleiniers auprès des autorités de la cité et des habitants, négociant les quotas de chasse et arbitrant les conflits entre capitaines. Sa voix rauque mais posée est respectée, et rares sont ceux qui osent contester ses décisions.
 
@@ -41,10 +43,4 @@ La légende raconte que Shadwik a survécu à une attaque d’une baleine légen
 ### Ambiance sonore et olfactive
 
 Dans la grande salle, des discussions animées sur les mers, les prises récentes et les récits épiques emplissent l’air. Le craquement des bottes sur le bois et le tintement des harpons accrochés aux murs ajoutent à l’atmosphère. Une douce odeur d’huile de baleine, mélangée à celle du rhum, imprègne le lieu, rappelant la vie en mer.
-
----
-
-## PNJ liés
-
-- [Capitaine Shadwik](/pnj/capitaine-shadwik/) — Maître de la guilde
 

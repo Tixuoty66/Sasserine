@@ -1,10 +1,12 @@
-# La Perle et le Perroquet (taverne/auberge)
+# La Perle et le Perroquet
 
-![](/assets/images/la-perle-et-le-perroquet.webp){.center}
+![](../assets/images/fiche-la-perle-et-le-perroquet.webp){.center}
 
 La Perle et le Perroquet est plus qu’une taverne ou une auberge ; c’est un carrefour où se croisent les récits de la mer et les ambitions du Quartier Noble. Les joueurs trouveront ici un havre de repos ou une porte d’entrée vers de nouvelles aventures, avec Bressyn Faros et ses secrets maritimes comme guides potentiels.
 
 ### Extérieur de l’auberge
+
+![](../assets/images/la-perle-et-le-perroquet.webp){.center}
 
 Nichée au cœur du Quartier Noble, La Perle et le Perroquet se distingue par son architecture élégante et son enseigne en bois finement sculptée. Elle représente un perroquet aux plumes colorées, perché sur une perle nacrée, symbole de raffinement et d’exotisme. L’entrée est bordée de jardinières débordantes de fleurs et de lierre soigneusement entretenus, et une lumière dorée émane des grandes fenêtres vitrées, attirant les passants.
 
@@ -18,9 +20,9 @@ De petits perroquets vivants, dressés pour ne pas perturber les clients, ajoute
 
 #### Bressyn Faros, la tenancière
 
-![](/assets/images/bressyn-faros.webp){.float-right .img-150}
+![](../assets/images/bressyn-faros.webp){.float-right .img-150}
 
-[Bressyn Faros](/pnj/bressyn-faros/) est une femme aux allures de capitaine de navire, à la fois tenancière et âme de La Perle et le Perroquet. Ses cheveux poivre et sel, toujours impeccablement tressés, descendent jusqu’à ses épaules. Son regard perçant, semblable à celui d’un rapace, donne l’impression qu’elle devine les intentions des gens avant même qu’ils ne parlent. Elle porte souvent des habits marins élégants, agrémentés de bijoux en nacre et en argent, qui rappellent son passé d’exploratrice des mers du sud. Bressyn est une femme d’une grande intelligence et d’un charme pragmatique. Elle est connue pour offrir des conseils avisés aux aventuriers tout en gardant ses secrets soigneusement dissimulés.
+[Bressyn Faros](../pnj/bressyn-faros.md) est une femme aux allures de capitaine de navire, à la fois tenancière et âme de La Perle et le Perroquet. Ses cheveux poivre et sel, toujours impeccablement tressés, descendent jusqu’à ses épaules. Son regard perçant, semblable à celui d’un rapace, donne l’impression qu’elle devine les intentions des gens avant même qu’ils ne parlent. Elle porte souvent des habits marins élégants, agrémentés de bijoux en nacre et en argent, qui rappellent son passé d’exploratrice des mers du sud. Bressyn est une femme d’une grande intelligence et d’un charme pragmatique. Elle est connue pour offrir des conseils avisés aux aventuriers tout en gardant ses secrets soigneusement dissimulés.
 
 ### Petite histoire
 
@@ -39,9 +41,3 @@ Autrefois capitaine d’un navire marchand, Bressyn a survécu à une attaque de
 ### Ambiance
 
 La taverne est animée, mais jamais chaotique. On y entend souvent des récits d’aventures contés à voix basse entre deux éclats de rires. Les nobles viennent pour déguster des mets raffinés et des vins rares, tandis que les aventuriers cherchent des informations ou un moment de répit. Le personnel, discret mais efficace, est habillé avec soin, mais il n’est pas rare que certains serveurs soient d’anciens marins reconvertis, encore marqués par leurs voyages.
-
----
-
-## PNJ liés
-
-- [Bressyn Faros](/pnj/bressyn-faros/) - tenancière

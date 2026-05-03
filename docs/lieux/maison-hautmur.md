@@ -1,10 +1,12 @@
-# Maison Hautmur (spécialiste de la géographie de la région)
+# Maison Hautmur
 
-![](/assets/images/maison-hautmur.webp){.center}
+![](../assets/images/fiche-maison-hautmur.webp){.center}
 
 La Maison Hautmur est plus qu’une demeure : c’est un sanctuaire pour les érudits et les explorateurs. Les joueurs y trouveront un allié précieux pour leurs expéditions et un lieu rempli de mystères à déchiffrer, tout en découvrant les richesses géographiques et historiques de la région de Sasserine.
 
 ### Extérieur de la maison
+
+![](../assets/images/maison-hautmur.webp){.center}
 
 La Maison Hautmur est un imposant manoir en pierre claire, situé au sommet d’une colline dans le Quartier Noble. Sa façade est ornée de gravures représentant des cartes stylisées et des roses des vents. Une large allée pavée, bordée d’arbustes taillés en forme de continents, mène à une porte en chêne massif incrustée de motifs marins et de montagnes gravées en relief.
 
@@ -20,9 +22,9 @@ Une pièce adjacente, surnommée “la Salle des Routes”, est dédiée à l’
 
 #### Sloren Hautmur, maître de la maison
 
-![](/assets/images/sloren-hautmur.webp){.float-right .img-150}
+![](../assets/images/sloren-hautmur.webp){.float-right .img-150}
 
-[Sloren Hautmur](/pnj/sloren-hautmur/), maître de la maison, est un homme d’une cinquantaine d’années, grand et mince, avec une posture élégante et des yeux perçants. Ses cheveux poivre et sel sont toujours impeccablement coiffés, et il porte souvent des vêtements raffinés, ornés de broderies évoquant des cartes. Il tient généralement une plume ou un carnet à la main, prêt à noter une nouvelle idée ou un détail intéressant.
+[Sloren Hautmur](../pnj/sloren-hautmur.md), maître de la maison, est un homme d’une cinquantaine d’années, grand et mince, avec une posture élégante et des yeux perçants. Ses cheveux poivre et sel sont toujours impeccablement coiffés, et il porte souvent des vêtements raffinés, ornés de broderies évoquant des cartes. Il tient généralement une plume ou un carnet à la main, prêt à noter une nouvelle idée ou un détail intéressant.
 
 ***Interactions avec Sloren.*** Sloren est un homme courtois mais exigeant, qui respecte ceux qui partagent sa passion pour la précision et la connaissance. Il se méfie des aventuriers imprudents ou des marchands trop cupides, préférant travailler avec des individus respectant l’art de la cartographie et les rigueurs du voyage. Il est aussi légèrement obsessionnel : chaque détail compte, et il peut passer des heures à discuter d’une erreur mineure sur une carte ou à débattre de la meilleure méthode pour tracer une route.
 
@@ -43,9 +45,3 @@ Sloren est connu comme l’expert incontesté en géographie de la région de Sa
 ### Ambiance sonore et olfactive
 
 Le grattement des plumes sur le parchemin se mêle au bruissement des pages des livres. Une légère odeur de parchemin ancien, de cuir et de cire flotte dans l’air, ponctuée par le parfum herbacé émanant de la verrière.
-
----
-
-## PNJ liés
-
-- [Sloren Hautmur](/pnj/sloren-hautmur/), spécialiste de la géographie de la région

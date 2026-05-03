@@ -1,12 +1,14 @@
 # Garnison d'Ombrerive
 
-![](/assets/images/garnison-d-ombrerive.webp){.center}
-
-*“À Ombrerive, même la loi porte des chaînes. Et elles tintent pour celui qui paie le plus fort.”*
+![](../assets/images/fiche-garnison-d-ombrerive.webp){.center}
 
 La Garnison d’Ombrerive est un poste de garde en ruine, symbole écaillé d’un ordre illusoire. Véritable nid de corruption, elle ne protège que les intérêts de ceux qui paient — et surtout ceux des barons d’Ombrerive. Les joueurs y trouveront une autorité pourrie de l’intérieur, des agents prêts à vendre leur insigne pour une pièce d’or, et peut-être, au cœur de la décrépitude, une ou deux âmes perdues qui croient encore en la justice.
 
 ### Extérieur
+
+![](../assets/images/garnison-d-ombrerive.webp){.center}
+
+*“À Ombrerive, même la loi porte des chaînes. Et elles tintent pour celui qui paie le plus fort.”*
 
 La garnison se dresse sur Harbor Way, face à l'île aux perroquets. Le bâtiment, autrefois bâti en pierre et en bois de qualité, s’est effondré sur lui-même au fil des années. Une moitié du toit est effondrée, les volets sont brisés ou absents, et l’enseigne représentant le blason de la garde de Sasserine a été grossièrement repeinte… à moitié.
 
@@ -20,11 +22,11 @@ Une forte odeur de sueur, de vin tourné et de moisissure flotte dans l’air. L
 
 #### Personnages notables
 
-![](/assets/images/garron.webp){.float-right .img-150}
+![](../assets/images/garron.webp){.float-right .img-150}
 
-Le Capitaine [Garron](/pnp/garron/), surnommé le Tordu à cause de sa posture voûtée et de son humour acide, dirige la garnison d’un œil fatigué et d’une main ouverte (à pots-de-vin). Ancien garde du Quartier du Levant, il a été réaffecté à Ombrerive après avoir extorqué les mauvaises personnes. Il le vit mal… ou peut-être très bien, si l’on considère sa collection de bijoux “confisqués”.
+Le Capitaine [Garron](../pnp/garron.md), surnommé le Tordu à cause de sa posture voûtée et de son humour acide, dirige la garnison d’un œil fatigué et d’une main ouverte (à pots-de-vin). Ancien garde du Quartier du Levant, il a été réaffecté à Ombrerive après avoir extorqué les mauvaises personnes. Il le vit mal… ou peut-être très bien, si l’on considère sa collection de bijoux “confisqués”.
 
-La Lieutenant [Halka Terev](/pnj/halka-terev/). Jeune demi-elfe arrivée récemment, Halka est raillée par ses collègues pour son idéalisme tenace. Elle croit encore à la mission de la garde, mais elle est isolée, méprisée et surveillée de près. Elle conserve un registre parallèle, secret, consignant les vrais délits d’Ombrerive… dans l’espoir qu’un jour, quelqu’un écoutera.
+La Lieutenant [Halka Terev](../pnj/halka-terev.md). Jeune demi-elfe arrivée récemment, Halka est raillée par ses collègues pour son idéalisme tenace. Elle croit encore à la mission de la garde, mais elle est isolée, méprisée et surveillée de près. Elle conserve un registre parallèle, secret, consignant les vrais délits d’Ombrerive… dans l’espoir qu’un jour, quelqu’un écoutera.
 
 ### Petite histoire
 
@@ -46,10 +48,3 @@ Garron aurait autrefois mené une arrestation exemplaire qui lui valut une méda
 ### Ambiance sonore et olfactive
 
 Rires gras, jurons lancés dans le vide, bruit de dés jetés sur les tables. On entend parfois les cliquetis d’une armure… ou plutôt, d’une bouteille qu’on cogne contre une botte. L’odeur de renfermé, d’alcool bon marché, de sueur et de cuir mal entretenu règne dans les pièces. Un mélange de moisi, de tabac et de viande salée qui colle à la gorge.
-
----
-
-## PNJ liés
-
-- [Garron](/pnp/garron/) - le Capitaine
-- [Halka Terev](/pnj/halka-terev/) - la Lieutenant

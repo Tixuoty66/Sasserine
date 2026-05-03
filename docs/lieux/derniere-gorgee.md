@@ -1,12 +1,14 @@
 # La Dernière Gorgée
 
-![](/assets/images/la-derniere-gorgee.webp){.center}
-
-*“Un dernier verre avant l’oubli ? À la Dernière Gorgée, certains secrets se noient… d’autres refont surface.”*
+![](../assets/images/fiche-la-derniere-gorgee.webp){.center}
 
 La Dernière Gorgée est une taverne discrète et enfumée, fréquentée par les marins, les capitaines usés par les flots, les trafiquants prudents et les âmes perdues du Quartier Azur. C’est un lieu de rumeurs et de rendez-vous discrets, où la boisson est forte, les regards pesants, et les souvenirs trop lourds pour être portés à jeun. Les joueurs y trouveront des informations enfouies sous des silences pesants, des contacts louches, et peut-être un contrat qu’on ne confie qu’aux désespérés.
 
 ### Extérieur
+
+![](../assets/images/la-derniere-gorgee.webp){.center}
+
+*“Un dernier verre avant l’oubli ? À la Dernière Gorgée, certains secrets se noient… d’autres refont surface.”*
 
 Sur un quai battu par les embruns, La Dernière Gorgée se fond dans le décor. Sa façade de bois gris, rongée par le sel, n’affiche aucun nom visible — seulement une barrique suspendue au-dessus de la porte, fendue et gouttant lentement dans une bassine de cuivre. Les volets sont toujours fermés, la lumière filtrant à travers les fentes comme celle d’un phare oublié. Une lanterne à la flamme verdâtre éclaire l’entrée d’une lumière maladive. Les rares clients qui entrent jettent un dernier coup d’œil à la mer… comme s’ils savaient que cette gorgée pourrait vraiment être la dernière.
 
@@ -16,9 +18,9 @@ L’intérieur est sombre, bas de plafond, saturé de fumée et de murmures. Les
 
 #### Brelan Touk, tavernier et mémoire liquide du port
 
-![](/assets/images/brelan-touk.webp){.float-right .img-150}
+![](../assets/images/brelan-touk.webp){.float-right .img-150}
 
-[Brelan Touk](/pnj/brelan-touk/), dit *Le Coule-Jamais*, est un ancien quartier-maître aux cheveux en bataille et au regard rieur mais méfiant. La cinquantaine passée, il a le teint parcheminé par le sel, des doigts comme des crochets, et un appétit inextinguible pour les histoires - surtout celles qu’on ne raconte pas. Il boîte légèrement, suite à un accident dont il ne parle jamais, et porte toujours une bague en fer à chaque doigt, “pour rappeler les erreurs”.
+[Brelan Touk](../pnj/brelan-touk.md), dit *Le Coule-Jamais*, est un ancien quartier-maître aux cheveux en bataille et au regard rieur mais méfiant. La cinquantaine passée, il a le teint parcheminé par le sel, des doigts comme des crochets, et un appétit inextinguible pour les histoires - surtout celles qu’on ne raconte pas. Il boîte légèrement, suite à un accident dont il ne parle jamais, et porte toujours une bague en fer à chaque doigt, “pour rappeler les erreurs”.
 
 ### Une petite histoire
 
@@ -39,10 +41,3 @@ On dit que Brelan aurait été le dernier survivant d’un navire qui a tenté d
 ### Ambiance sonore et olfactive
 
 Des craquements de bois, des chuchotements à demi-mots, des soupirs las. De temps à autre, un éclat de rire rauque ou une toux sèche. L’air est saturé de fumée, de rhum bon marché, de sel humide et d’huile de lampe. Une odeur indéfinissable — un mélange de corde mouillée, de cuir vieilli et d’algues fermentées — flotte en permanence, comme un parfum de naufrage.
-
----
-
-## PNJ liés
-
-- [Brelan Touk](/pnj/brelan-touk/) — Tavernier, mémoire liquide du port
-

@@ -1,10 +1,12 @@
-# Manoir des Lorchester (famille représentante du quartier)
+# Manoir des Lorchester
 
-![](/assets/images/manoir-des-lorchester.webp){.center}
+![](../assets/images/fiche-manoir-des-lorchester.webp){.center}
 
 Le Manoir des Lorchester est un bastion du pouvoir où l’acier ne tranche pas les destins autant que les mots bien choisis. Ceux qui franchissent son seuil doivent être prêts à jouer au jeu des intrigues… ou à en être les victimes.
 
 ### Extérieur du manoir
+
+![](../assets/images/manoir-des-lorchester.webp){.center}
 
 Le Manoir des Lorchester se dresse tel un faucon perché sur son promontoire, dominant les rues du Quartier des Champions. Construit en pierre sombre et rehaussé de ferronneries ouvragées, il affiche une façade austère et sévère, contrastant avec la démesure de l'arène voisine. Les hauts murs entourant la propriété sont hérissés de pointes et veillés par des gargouilles sculptées, témoins silencieux des intrigues qui se trament derrière les fenêtres vitrées.
 
@@ -20,9 +22,9 @@ Un escalier en colimaçon mène à l’étage, où se trouvent les appartements 
 
 #### Neldrak Lorchester, le Serpent du Conseil de l'Aube
 
-![](/assets/images/neldrak-lorchester.webp){.float-right .img-150}
+![](../assets/images/neldrak-lorchester.webp){.float-right .img-150}
 
-[Neldrak Lorchester](/pnj/neldrak-lorchester/) est un homme aux tempes grisonnantes, à la silhouette élancée et à l’œil perçant. Sa voix douce contraste avec la force qui émane de lui. Il n’est pas un guerrier, mais son esprit affûté lui a permis de gravir les échelons du pouvoir sans jamais tremper son épée dans le sang. Représentant du Quartier des Champions au Conseil de l’Aube, il défend les intérêts des mercenaires et gladiateurs avec une éloquence implacable. Pourtant, derrière son sourire calculé, il est perçu comme un homme d’intrigue, aussi dangereux qu’un duel dans l’arène. On raconte que rares sont ceux qui sortent indemnes d’une conversation avec lui : s’ils ne sont pas vaincus sur le champ, ils se rendent compte trop tard qu’ils ont déjà perdu.
+[Neldrak Lorchester](../pnj/neldrak-lorchester.md) est un homme aux tempes grisonnantes, à la silhouette élancée et à l’œil perçant. Sa voix douce contraste avec la force qui émane de lui. Il n’est pas un guerrier, mais son esprit affûté lui a permis de gravir les échelons du pouvoir sans jamais tremper son épée dans le sang. Représentant du Quartier des Champions au Conseil de l’Aube, il défend les intérêts des mercenaires et gladiateurs avec une éloquence implacable. Pourtant, derrière son sourire calculé, il est perçu comme un homme d’intrigue, aussi dangereux qu’un duel dans l’arène. On raconte que rares sont ceux qui sortent indemnes d’une conversation avec lui : s’ils ne sont pas vaincus sur le champ, ils se rendent compte trop tard qu’ils ont déjà perdu.
 
 ### Petite histoire
 
@@ -41,9 +43,3 @@ Un murmure court dans la ville : dans sa jeunesse, Neldrak aurait tenté l’ép
 ### Ambiance
 
 Le Manoir des Lorchester est un lieu de secrets et de calculs, où chaque mot peut être une arme et chaque silence, un piège. Les visiteurs doivent y entrer avec prudence, car une fois à l’intérieur, ils sont déjà pris dans la toile de Neldrak.
-
----
-
-## PNJ liés
-
-- [Neldrak Lorchester](/pnj/neldrak-lorchester/) - représentant du Quartier des Champions au Conseil de l’Aube

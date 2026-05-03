@@ -1,6 +1,6 @@
 # Sasserine
 
-![](/assets/images/sasserine-vue1.webp){.size-cover}
+![](../assets/images/sasserine-vue1.webp){.size-cover}
 
 Sasserine est une grande cité portuaire située à l’extrémité ouest de la jungle d’Amedio, nichée dans un port abrité. La plupart des voyageurs s’y rendent par bateau, les routes terrestres étant périlleuses. Depuis la mer, la ville ne paie guère de mine : deux falaises de pierre déchiquetées s’avancent sur le littoral, leurs faces abritant des goélands et des mouettes, mais bien peu d’autres signes de vie. Puis apparaît un vaste trou dans la falaise, dont le sommet est couronné par les vestiges brisés d’un immense pont de pierre. En naviguant entre les piliers qui soutenaient autrefois ce pont, le visiteur quitte la haute mer pour entrer dans un port prospère où règnent le commerce, la chasse à la baleine et les intrigues.
 
@@ -34,19 +34,19 @@ Sasserine souffrit pendant cent ans, mais ses citoyens ne perdirent pas espoir. 
 
 Sasserine est divisée en sept quartiers distincts, chacun doté de sa propre identité. Ces quartiers sont séparés par des murs d’enceinte, des réseaux de canaux, des rivières, ou simplement par leur histoire et leur développement. La compétition amicale entre quartiers est fréquente, surtout lors des fêtes, mais les citoyens de Sasserine savent aussi se serrer les coudes lorsque la ville est menacée.
 
-Le [Quartier Azur](/quartiers/azur/) est le véritable front de mer de Sasserine. Il concentre l’activité portuaire, l’industrie baleinière et une grande partie des populations modestes de la ville.
+Le [Quartier Azur](../quartiers/azur/) est le véritable front de mer de Sasserine. Il concentre l’activité portuaire, l’industrie baleinière et une grande partie des populations modestes de la ville.
 
-Le [Quartier des Champions](/quartiers/champions/) domine l’ouest de Sasserine. C’est un quartier de soldats, de gladiateurs, de mercenaires et de guerriers, fier de ses traditions martiales et de son importance dans la défense de la cité.
+Le [Quartier des Champions](../quartiers/champions/) domine l’ouest de Sasserine. C’est un quartier de soldats, de gladiateurs, de mercenaires et de guerriers, fier de ses traditions martiales et de son importance dans la défense de la cité.
 
-Le [Quartier Cudgel](/quartiers/cudgel) est avant tout un quartier résidentiel. Grâce à la vigilance de sa garde et de l’église de Saint Cuthbert, il est considéré comme le plus sûr de la ville.
+Le [Quartier Cudgel](../quartiers/cudgel/) est avant tout un quartier résidentiel. Grâce à la vigilance de sa garde et de l’église de Saint Cuthbert, il est considéré comme le plus sûr de la ville.
 
-Le [Quartier des Marchands](/quartiers/marchands) est le cœur de Sasserine, et peut-être même son âme. C’est souvent le premier quartier que découvrent les visiteurs, et parfois le seul qu’ils aient besoin de parcourir.
+Le [Quartier des Marchands](../quartiers/marchands/) est le cœur de Sasserine, et peut-être même son âme. C’est souvent le premier quartier que découvrent les visiteurs, et parfois le seul qu’ils aient besoin de parcourir.
 
-Le [Quartier Noble](/quartiers/noble) est traditionnellement regardé comme le quartier dirigeant de la ville, même si le Château Teraknian n’en fait pas techniquement partie. Aujourd’hui, son prestige s’accompagne d’une réputation de décadence et de vanité.
+Le [Quartier Noble](../quartiers/noble/) est traditionnellement regardé comme le quartier dirigeant de la ville, même si le Château Teraknian n’en fait pas techniquement partie. Aujourd’hui, son prestige s’accompagne d’une réputation de décadence et de vanité.
 
-[Ombrerive](/quartiers/ombrerive), bien que relativement petit, est sans doute le plus célèbre des quartiers de Sasserine. Refuge des voleurs, des bandits et des criminels en tout genre, il vit largement en marge de l’ordre officiel.
+[Ombrerive](../quartiers/ombrerive/), bien que relativement petit, est sans doute le plus célèbre des quartiers de Sasserine. Refuge des voleurs, des bandits et des criminels en tout genre, il vit largement en marge de l’ordre officiel.
 
-Le [Levant](/quartiers/levant), enfin, est lui aussi un quartier principalement résidentiel, mais ses habitants sont en général un peu mieux lotis que ceux de Cudgel, notamment en raison de leurs liens avec les nombreuses plantations des environs.
+Le [Levant](../quartiers/levant/), enfin, est lui aussi un quartier principalement résidentiel, mais ses habitants sont en général un peu mieux lotis que ceux de Cudgel, notamment en raison de leurs liens avec les nombreuses plantations des environs.
 
 ---
 

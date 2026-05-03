@@ -1,14 +1,14 @@
 # Le Quartier des Champions
 
-[Carte interactive du Quartier des Champions](/cartes/champions.html)
+[Carte interactive du Quartier des Champions](../cartes/champions.html)
 
-Le Quartier des Champions domine l'ouest de Sasserine, un quartier de soldats, de gladiateurs, de mercenaires et de guerriers qui suivent les traces du premier seigneur-maire de la ville, un prêtre de Kord nommé Teraknian. Le Quartier des Champions entretient des relations peu amicales avec le [Quartier Noble](/quartiers/noble/), et ses habitants se considèrent comme les véritables dirigeants de la ville.
+Le Quartier des Champions domine l'ouest de Sasserine, un quartier de soldats, de gladiateurs, de mercenaires et de guerriers qui suivent les traces du premier seigneur-maire de la ville, un prêtre de Kord nommé Teraknian. Le Quartier des Champions entretient des relations peu amicales avec le [Quartier Noble](../quartiers/noble.md), et ses habitants se considèrent comme les véritables dirigeants de la ville.
 
-![](/assets/images/lorchester.webp){.float-right .img-150}
+![](../assets/images/lorchester.webp){.float-right .img-150}
 
-Les nobles qui représentent le Quartier des Champions sont les **Lorchester**, une famille de vieille souche établie à Sasserine depuis la fondation de la ville. Le patriarche de la famille, [Neldrak Lorchester](/pnj/neldrak-lorchester/), est généralement perçu comme un peu trop maniganceur dès que cela touche à ses propres intérêts. Les Lorchester se sont récemment opposés à la famille **Taskerhill** du [Quartier Cudgel](/quartiers/cudgel/) au sujet de la propriété de la Scierie de la Rivière Tonnerre. Plus près de chez eux, ils sont en conflit avec une autre famille noble du Quartier des Champions, les **Toregson**. La rumeur veut que la source du conflit entre les Lorchester et les Toregson soit liée à la Guilde des forgerons.
+Les nobles qui représentent le Quartier des Champions sont les **Lorchester**, une famille de vieille souche établie à Sasserine depuis la fondation de la ville. Le patriarche de la famille, [Neldrak Lorchester](../pnj/neldrak-lorchester.md), est généralement perçu comme un peu trop maniganceur dès que cela touche à ses propres intérêts. Les Lorchester se sont récemment opposés à la famille **Taskerhill** du [Quartier Cudgel](../quartiers/cudgel.md) au sujet de la propriété de la Scierie de la Rivière Tonnerre. Plus près de chez eux, ils sont en conflit avec une autre famille noble du Quartier des Champions, les **Toregson**. La rumeur veut que la source du conflit entre les Lorchester et les Toregson soit liée à la Guilde des forgerons.
 
-Le Quartier des Champions abrite également l'Ambassade Écarlate. Cette structure relativement récente abrite un certain [Anteki Alresian](/pnj/anteki-alresian/), ambassadeur de la sinistre et (certains diraient) indigne de confiance Fratrie écarlate. La présence d'Anteki dans la ville, et dans le Quartier des Champions, a été positive en apparence : il a fait don d'une grande quantité d'équipements pour des chantiers publics, et l'ambassade ouvre ses portes à tous les visiteurs. Pourtant, des rumeurs circulent selon lesquelles l'ambassade n'est rien d'autre qu'une façade utilisée par la Fratrie écarlate pour endormir Sasserine dans un faux sentiment de sécurité en attendant un assaut de la Fratrie depuis la mer.
+Le Quartier des Champions abrite également l'Ambassade Écarlate. Cette structure relativement récente abrite un certain [Anteki Alresian](../pnj/anteki-alresian.md), ambassadeur de la sinistre et (certains diraient) indigne de confiance Fratrie écarlate. La présence d'Anteki dans la ville, et dans le Quartier des Champions, a été positive en apparence : il a fait don d'une grande quantité d'équipements pour des chantiers publics, et l'ambassade ouvre ses portes à tous les visiteurs. Pourtant, des rumeurs circulent selon lesquelles l'ambassade n'est rien d'autre qu'une façade utilisée par la Fratrie écarlate pour endormir Sasserine dans un faux sentiment de sécurité en attendant un assaut de la Fratrie depuis la mer.
 
 ### Les citoyens
 
@@ -34,27 +34,27 @@ L'arène de Sasserine est l'un des lieux de divertissement les plus populaires d
 
 ## PNJ célèbres
 
-[Anteki Alresian](/pnj/anteki-alresian/) (humain) : Anteki est un ambassadeur de la sinistre Fratrie écarlate. Il maintient un vernis civil et même respectable, mais beaucoup le soupçonnent d'avoir d'autres intentions pour Sasserine.
+[Anteki Alresian](../pnj/anteki-alresian.md) (humain) : Anteki est un ambassadeur de la sinistre Fratrie écarlate. Il maintient un vernis civil et même respectable, mais beaucoup le soupçonnent d'avoir d'autres intentions pour Sasserine.
 
-[Neldrak Lorchester](/pnj/neldrak-lorchester/) (humain) : Seigneur du manoir des Lorchester et représentant du Quartier des Champions au Conseil de l'Aube. Neldrak a la réputation d'être rusé et intrigant.
+[Neldrak Lorchester](../pnj/neldrak-lorchester.md) (humain) : Seigneur du manoir des Lorchester et représentant du Quartier des Champions au Conseil de l'Aube. Neldrak a la réputation d'être rusé et intrigant.
 
-[Tormagal Gred](/pnj/tormagal-gred/) (humain) : Tormagal, un homme sans état d'âme et sans humour, est le grand prêtre de l'église de Kord.
+[Tormagal Gred](../pnj/tormagal-gred.md) (humain) : Tormagal, un homme sans état d'âme et sans humour, est le grand prêtre de l'église de Kord.
 
-[Urik Toregson](/pnj/urik-toregson/) (humain) : Maître du manoir Toregson et propriétaire de la Guilde des forgerons dans le Quartier des Marchands, Urik est un personnage populaire qui s'est fait un nom dans les combats organisés à l'Arène.
+[Urik Toregson](../pnj/urik-toregson.md) (humain) : Maître du manoir Toregson et propriétaire de la Guilde des forgerons dans le Quartier des Marchands, Urik est un personnage populaire qui s'est fait un nom dans les combats organisés à l'Arène.
 
-[Zasker Grankus](/pnj/zasker-grankus/) (humain) : Ancien barbare sympathique (bien qu'intimidant), Zasker dirige le groupe de chasseurs et de mercenaires connu sous le nom de Cornes de Zelkarune.
+[Zasker Grankus](../pnj/zasker-grankus.md) (humain) : Ancien barbare sympathique (bien qu'intimidant), Zasker dirige le groupe de chasseurs et de mercenaires connu sous le nom de Cornes de Zelkarune.
 
 ---
 
 ## Lieux du Quartier des Champions
 
-1. [Taverne des Six Epées](/lieux/taverne-des-six-epees/)
-2. [Auberge du Gros Ventre](/lieux/auberge-du-gros-ventre/)
+1. [Taverne des Six Epées](../lieux/taverne-des-six-epees.md)
+2. [Auberge du Gros Ventre](../lieux/auberge-du-gros-ventre.md)
 3. Les Messagers de Sasserine (service de messagerie)
-4. [Manoir des Lorchester (représentant du quartier)](/lieux/manoir-des-lorchester/)
+4. [Manoir des Lorchester (représentant du quartier)](../lieux/manoir-des-lorchester.md)
 5. Hall de Zelkarune (musée et annexe de l'arène)
 6. Écurie de Redwall
-7. [Arène de Sasserine](/lieux/arene-de-sasserine/)
+7. [Arène de Sasserine](../lieux/arene-de-sasserine.md)
 8. Au chasseur de trophées (boutique de curiosités)
 9. Guilde des prêteurs
 10. Le Choix du Gladiateur (armes de qualité)
@@ -65,18 +65,18 @@ L'arène de Sasserine est l'un des lieux de divertissement les plus populaires d
 15. Tante Kylie (maison close)
 16. Guilde des allumeurs de lanternes
 17. Garnison des Champions
-18. [Musée de l'Arène (musée des combats de l'arène)](/lieux/musee-de-larene/)
+18. [Musée de l'Arène (musée des combats de l'arène)](../lieux/musee-de-l-arene.md)
 19. Sanctuaire de Norebo (dieu du jeu)
 20. La Maison de Kord (église du quartier)
 21. Sanctuaire de Llerg (dieu des bêtes et de la force)
 22. Animaux de Fendal (animaux exotiques et bêtes de garde)
 23. Les Maillons de Liomar (cotte de mailles de qualité)
 24. Chez Vildivar (arcs, flèches, armes à distance)
-25. [Les Potions de l'Abeille (potions)](/lieux/les-potions-de-labeille-potions/)
+25. [Les Potions de l'Abeille (potions)](../lieux/potions-de-l-abeille.md)
 26. Le Breuvage de Kord (taverne)
 27. Le Catapulteur (taverne/salle de jeu)
 28. Phare des Champions (phare du champion)
-29. [Le Vortex des Destins (diseuse de bonne aventure)](/lieux/le-vortex-des-destins/)
+29. [Le Vortex des Destins (diseuse de bonne aventure)](../lieux/vortex-des-destins.md)
 30. École de Snaver (dresseur d'animaux)
 31. Épées et Enchantements (boutique dédiée à la magie)
 32. Marché de Kord ( produits de consommation courante, armes, armures, métallurgie)

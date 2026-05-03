@@ -1,11 +1,14 @@
-# Guilde des dragueurs de fonds
+# Guilde des Dragueurs de Fonds
 
-![](/assets/images/guilde-dragueurs-de-fonds.webp){.center}
-*« Tout ce que la mer avale finit par remonter… et certains secrets auraient dû rester au fond. »*
+![](../assets/images/fiche-guilde-des-dragueurs-de-fonds.webp){.center}
 
 Installée sur les quais les plus humides du Quartier Azur, la Guilde des Dragueurs de fonds est un lieu à la réputation ambiguë, à mi-chemin entre entreprise maritime indispensable et repaire de charognards des profondeurs. Officiellement, ses membres nettoient les fonds du port, récupèrent des épaves et sécurisent les chenaux. Officieusement, ils remontent aussi ce que la mer préférerait garder pour elle. Les PJ y trouveront des travailleurs endurcis, des objets oubliés, et parfois des vérités dérangeantes sur ce qui repose sous les eaux de Sasserine.
 
 ### Extérieur de la guilde
+
+![](../assets/images/guilde-dragueurs-de-fonds.webp){.center}
+
+*« Tout ce que la mer avale finit par remonter… et certains secrets auraient dû rester au fond. »*
 
 La guilde occupe un vaste entrepôt de bois et de pierre. De lourdes grues à bras articulés dominent la façade, leurs chaînes dégoulinantes d’eau saumâtre et de vase. Des bennes percées, des filets renforcés de mailles métalliques et d’étranges crocs de dragage sont alignés le long du quai.
 
@@ -19,9 +22,9 @@ Un grand bassin intérieur, relié directement au port par une grille immergée,
 
 #### Le Maître de la Drague, Reldan Mersale
 
-![](/assets/images/reldan-mersale.webp){.float-right .img-150}
+![](../assets/images/reldan-mersale.webp){.float-right .img-150}
 
-[Reldan Mersale](/pnj/reldan-mersale) est un homme sec, au teint pâle et aux cheveux gris toujours humides, comme s’il sortait en permanence de l’eau. Il boite légèrement, conséquence d’un accident de plongée dont il refuse de parler en détail. Sa voix est rauque, usée par des années à crier des ordres au-dessus du fracas des chaînes et du ressac.
+[Reldan Mersale](../pnj/reldan-mersale.md) est un homme sec, au teint pâle et aux cheveux gris toujours humides, comme s’il sortait en permanence de l’eau. Il boite légèrement, conséquence d’un accident de plongée dont il refuse de parler en détail. Sa voix est rauque, usée par des années à crier des ordres au-dessus du fracas des chaînes et du ressac.
 
 ### Une petite histoire
 
@@ -40,9 +43,3 @@ Les dragueurs le respectent, non par affection, mais parce qu’il sait reconna�
 ### Ambiance sonore et olfactive
 
 Le cliquetis incessant des chaînes, le grincement des treuils, les cris courts des ouvriers, et le bruit sourd des objets lourds qu’on déverse sur le sol composent une cacophonie industrielle. L’air est saturé d’odeurs de vase, de sel, de métal oxydé et de bois pourri. Par moments, une senteur plus étrange - ancienne, presque organique - flotte brièvement avant de disparaître.
-
----
-
-## PNJ liés
-
-- [Reldan Mersale](/pnj/reldan-mersale/) — Maître de la drague

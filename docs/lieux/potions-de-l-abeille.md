@@ -1,10 +1,12 @@
-# Les Potions de l'Abeille (potions)
+# Les Potions de l'Abeille
 
-![](/assets/images/les-potions-de-l-abeille.webp){.center}
+![](../assets/images/fiche-les-potions-de-l-abeille.webp){.center}
 
 Les Potions de l’Abeille est bien plus qu’une simple boutique de potions. Pour les joueurs, c’est un endroit où trouver des remèdes, de l’apaisement, et même quelques secrets discrets grâce aux précieuses informations glanées par les abeilles de Mélissande. Sa présence bienveillante et son savoir en alchimie en font une alliée précieuse pour les guerriers, les aventuriers et quiconque cherche un peu de réconfort ou de puissance en flacon.
 
 ### Extérieur des Potions de l’Abeille
+
+![](../assets/images/les-potions-de-l-abeille.webp){.center}
 
 Située dans une ruelle animée du Quartier des Champions, l’échoppe des Potions de l’Abeille se distingue par sa devanture en bois teintée d’un jaune profond, rappelant la couleur d’un essaim. Une petite enseigne en forme de ruche est accrochée au-dessus de la porte, avec le nom de la boutique gravé en lettres élégantes. Autour de l’enseigne, des motifs sculptés représentent des abeilles et des plantes aux fleurs exotiques, symbolisant l’herboristerie et l’art alchimique. Une douce odeur de miel et d’herbes fraîchement cueillies emplit l’air, attirant les passants intrigués.
 
@@ -16,9 +18,9 @@ Le comptoir est orné de bouquets de plantes aromatiques et d’outils d’alchi
 
 #### Mélissande, maîtresse des Potions de l'Abeille
 
-![](/assets/images/melissande.webp){.float-right .img-150}
+![](../assets/images/melissande.webp){.float-right .img-150}
 
-[Mélissande](/pnj/melissande/), surnommée la “Reine Alchimiste”, est la maîtresse des Potions de l’Abeille. C’est une femme d’une quarantaine d’années, au visage calme et au regard doux, souvent ornée de vêtements aux couleurs de la nature. Elle est petite et élancée, avec des cheveux châtain clair tirant sur le miel, souvent attachés en un chignon lâche et parsemés de petites fleurs ou de brins d’herbes. Mélissande est une figure respectée du quartier, connue pour sa patience et son expertise en herboristerie. Ses gestes sont toujours précis et mesurés, qu’elle prépare une potion ou qu’elle manipule des plantes délicates.
+[Mélissande](../pnj/melissande.md), surnommée la “Reine Alchimiste”, est la maîtresse des Potions de l’Abeille. C’est une femme d’une quarantaine d’années, au visage calme et au regard doux, souvent ornée de vêtements aux couleurs de la nature. Elle est petite et élancée, avec des cheveux châtain clair tirant sur le miel, souvent attachés en un chignon lâche et parsemés de petites fleurs ou de brins d’herbes. Mélissande est une figure respectée du quartier, connue pour sa patience et son expertise en herboristerie. Ses gestes sont toujours précis et mesurés, qu’elle prépare une potion ou qu’elle manipule des plantes délicates.
 
 Mélissande a un lien particulier avec les abeilles : elle possède une ruche magique qui lui permet de communiquer subtilement avec ces insectes. Cette ruche, héritée de sa grand-mère alchimiste, lui offre non seulement du miel rare aux propriétés curatives, mais aussi une connexion instinctive avec la nature et un réseau d’espionnage bien particulier. Les abeilles de Mélissande volent librement dans le quartier et reviennent parfois avec des fragments d’informations, que la commerçante sait interpréter pour le bénéfice de ses clients ou pour ses propres affaires.
 
@@ -39,9 +41,3 @@ Mélissande est originaire d’un petit village de montagne où elle a appris le
 ### Ambiance sonore et olfactive
 
 Les Potions de l’Abeille sont baignées d’une odeur douce et réconfortante de miel et de fleurs. Le bourdonnement léger des abeilles renforce l’atmosphère apaisante, et le crépitement d’une petite flamme sous les alambics donne une impression de lieu vivant, où l’alchimie est aussi naturelle que la respiration. Les visiteurs y trouvent une oasis de calme au milieu de l’agitation du Quartier des Champions.
-
----
-
-## PNJ liés
-
-- [Mélissande](/pnj/melissande/) - maîtresse des Potions de l’Abeille

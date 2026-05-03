@@ -1,12 +1,14 @@
-# La Hache Ebréchée (guilde de mercenaires)
+# La Hache Ebréchée
 
-![](/assets/images/la-hache-ebrechee.webp){.center}
-
-*“Ils ont tout perdu… sauf leurs armes. Entrez à vos risques et périls, et n’oubliez pas : ici, même les ébréchés peuvent couper net.”*
+![](../assets/images/fiche-la-hache-ebrechee.webp){.center}
 
 La Hache Ébréchée est une guilde de mercenaires durement frappés par la vie, mais encore debout — rugueuse, amère, et dangereuse. Fondée par des vétérans laissés pour compte, elle s’est taillée une réputation dans les coins les plus sombres de Sasserine. Les joueurs y trouveront des combattants marqués par la guerre, des contrats désespérés, et une philosophie simple : survivre, frapper fort, et ne jamais oublier d’où l’on vient.
 
 ### Extérieur
+
+![](../assets/images/la-hache-ebrechee.webp){.center}
+
+*“Ils ont tout perdu… sauf leurs armes. Entrez à vos risques et périls, et n’oubliez pas : ici, même les ébréchés peuvent couper net.”*
 
 Située sur Rubble Street, La Hache Ébréchée ne paie pas de mine. Sa façade est faite de planches renforcées, taguées de marques et de symboles laissés par d’anciens membres ou rivaux déchus. Une lourde porte de fer, cabossée et rouillée, porte le symbole de la guilde : une hache grossière dont le tranchant est fendu, peinte en rouge sur fond noir.
 
@@ -22,9 +24,9 @@ Un escalier grinçant mène à une salle d’entraînement mal éclairée, où d
 
 #### Morga Trenth, la Gueule de Fer
 
-![](/assets/images/morga-trenth.webp){.float-right .img-150}
+![](../assets/images/morga-trenth.webp){.float-right .img-150}
 
-[Morga Trenth](/pnj/morga-trenth/) est la fondatrice et actuelle cheffe de la guilde. Ancienne gladiatrice du Quartier des Champions, elle a été laissée pour morte lors d’un combat truqué. Son visage est défiguré sur le côté gauche : mâchoire reforgée en fer noir, œil de verre, cicatrices profondes. Elle n’en a tiré ni honte ni faiblesse, mais un surnom redouté : la Gueule de Fer.
+[Morga Trenth](../pnj/morga-trenth.md) est la fondatrice et actuelle cheffe de la guilde. Ancienne gladiatrice du Quartier des Champions, elle a été laissée pour morte lors d’un combat truqué. Son visage est défiguré sur le côté gauche : mâchoire reforgée en fer noir, œil de verre, cicatrices profondes. Elle n’en a tiré ni honte ni faiblesse, mais un surnom redouté : la Gueule de Fer.
 
 ### Petite histoire
 
@@ -45,9 +47,3 @@ Après sa trahison dans l’arène, Morga a juré de ne plus jamais se battre po
 ### Ambiance sonore et olfactive
 
 Le cliquetis des pièces sur le bois brut. Des voix rauques, des injures amicales, parfois des grognements d’effort dans la salle d’entraînement. L’odeur de sueur, de sang ancien, de métal oxydé, mêlée à celle du ragoût du jour (souvent suspect), plane en permanence. Un endroit où les sens s’émoussent… ou s’aiguisent pour survivre.
-
----
-
-## PNJ liés
-
-- [Morga Trenth](/pnj/morga-trenth/) - Cheffe de la guilde

@@ -1,10 +1,12 @@
 # Opéra de Sasserine
 
-![](/assets/images/opera-de-sasserine.webp){.center}
+![](../assets/images/fiche-opera-de-sasserine.webp){.center}
 
 L’Opéra de Sasserine est un lieu de drame, de beauté et d’excès, où la grandeur de l’art rencontre les intrigues du Quartier Noble. Les joueurs qui s’y aventurent découvriront un monde fascinant et haut en couleur, marqué par la présence inoubliable de Nylaria Absalee, qui pourrait bien faire de leur aventure une véritable scène théâtrale.
 
 ###  Extérieur de l’Opéra
+
+![](../assets/images/opera-de-sasserine.webp){.center}
 
 L’Opéra de Sasserine est un bâtiment somptueux, véritable joyau architectural du Quartier Noble. Ses façades sont ornées de statues d’artistes célèbres, de muses ailées, et de scènes gravées représentant des moments dramatiques de l’histoire de la ville. Les colonnes de marbre blanc soutiennent un fronton décoré d’une immense lyre en or qui scintille sous les rayons du soleil.
 
@@ -20,9 +22,9 @@ Les coulisses, bien que moins fastueuses, dégagent une énergie vibrante : cost
 
 #### Nylaria Absalee, la directrice de l'Opéra
 
-![](/assets/images/nylaria-absalee.webp){.float-right .img-150}
+![](../assets/images/nylaria-absalee.webp){.float-right .img-150}
 
-[Nylaria Absalee](/pnj/nyralia-absalee/) est une femme d’une stature imposante, à la fois physiquement et dans sa personnalité. Sa silhouette généreuse est toujours mise en valeur par des robes extravagantes aux couleurs vives, souvent ornées de plumes, de perles, ou de bijoux étincelants. Elle porte des coiffures élaborées, qui défient souvent les lois de la gravité et de la mode. Nylaria a une voix tonitruante et un rire contagieux. Elle se comporte comme si chaque personne qu’elle rencontre était son plus vieil ami ou son invité d’honneur, un trait qui peut être charmant ou accablant selon l’humeur de son interlocuteur.
+[Nylaria Absalee](../pnj/nyralia-absalee.md) est une femme d’une stature imposante, à la fois physiquement et dans sa personnalité. Sa silhouette généreuse est toujours mise en valeur par des robes extravagantes aux couleurs vives, souvent ornées de plumes, de perles, ou de bijoux étincelants. Elle porte des coiffures élaborées, qui défient souvent les lois de la gravité et de la mode. Nylaria a une voix tonitruante et un rire contagieux. Elle se comporte comme si chaque personne qu’elle rencontre était son plus vieil ami ou son invité d’honneur, un trait qui peut être charmant ou accablant selon l’humeur de son interlocuteur.
 
 ### Petite histoire
 
@@ -43,9 +45,3 @@ Nylaria est née dans une famille modeste de marchands d’épices, mais elle a 
 ### Ambiance sonore et olfactive
 
 Des notes de musique flottent toujours dans l’air, qu’il s’agisse de répétitions, de chants venant des coulisses, ou du murmure des spectateurs. L’odeur de parfums luxueux et de cires florales s’entremêle à celle des décors fraîchement peints.
-
----
-
-## PNJ liés
-
-- [Nylaria Absalee](/pnj/nyralia-absalee/) - directrice de l'Opéra

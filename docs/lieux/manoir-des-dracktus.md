@@ -1,12 +1,14 @@
-# Manoir des Dracktus (représentants du quartier)
+# Manoir des Dracktus
 
-![](/assets/images/manoir-des-dracktus.webp){.center}
-
-*“Entrez dans le repaire du seigneur d’Ombrerive… mais souvenez-vous : on ne boit pas le vin d’Emil Dracktus sans lui devoir quelque chose en retour.”*
+![](../assets/images/fiche-manoir-des-dracktus.webp){.center}
 
 Le Manoir des Dracktus est un bastion décadent au milieu de la crasse et de la violence d’Ombrerive. À la fois symbole de pouvoir et de corruption, il est la résidence d’Emil Dracktus, représentant officieux et peu apprécié du quartier au Conseil de l’Aube. Les joueurs y trouveront un mélange toxique d’influence, de secrets, de luxe dévoyé et d’intimidation. Un lieu où l’argent sent la poudre et où les tapis sont parfois plus tachés de sang que de vin.
 
 ### Extérieur
+
+![](../assets/images/manoir-des-dracktus.webp){.center}
+
+*“Entrez dans le repaire du seigneur d’Ombrerive… mais souvenez-vous : on ne boit pas le vin d’Emil Dracktus sans lui devoir quelque chose en retour.”*
 
 Au premier regard, le Manoir des Dracktus détonne violemment avec le reste d’Ombrerive. Perché sur une petite hauteur surplombant les toits branlants du quartier, il ressemble à une vieille bête accrochée à son rocher. Les murs de pierre sombre, envahis par le lierre et les traces de suie, sont ponctués de meurtrières et de vitres opaques aux montants rouillés.
 
@@ -24,9 +26,9 @@ L’aile sud est privée, réservée aux appartements d’Emil Dracktus, à ses 
 
 #### Emil Dracktus, le Vautour en soie
 
-![](/assets/images/emil-dracktus.webp){.float-right .img-150}
+![](../assets/images/emil-dracktus.webp){.float-right .img-150}
 
-[Emil Dracktus](/pnj/emil-dracktus/) - s’il s’agit bien de son vrai nom - est un homme aux allures nobles volontairement exagérées : longues mains gantées, cheveux gominés en arrière, collerette en dentelle (toujours tachée de vin), anneaux ostentatoires et sourire trop blanc pour être honnête. Il parle avec une lenteur affectée, ponctuant ses phrases de rires dissonants, comme s’il se moquait sans cesse du monde entier.
+[Emil Dracktus](../pnj/emil-dracktus.md) - s’il s’agit bien de son vrai nom - est un homme aux allures nobles volontairement exagérées : longues mains gantées, cheveux gominés en arrière, collerette en dentelle (toujours tachée de vin), anneaux ostentatoires et sourire trop blanc pour être honnête. Il parle avec une lenteur affectée, ponctuant ses phrases de rires dissonants, comme s’il se moquait sans cesse du monde entier.
 
 ### Petite histoire
 
@@ -47,9 +49,3 @@ Nul ne sait réellement d’où vient Emil. Certains affirment qu’il était un
 ### Ambiance sonore et olfactive
 
 Le manoir résonne du bruissement feutré des pas sur les tapis, des grincements de bois ancien, et parfois, de rires étouffés derrière des portes fermées. L’air est chargé de parfums forts, presque écœurants — encens capiteux, vin sucré, chair grillée. Un léger fond de moisissure flotte en permanence, comme si la pierre elle-même voulait pourrir mais n’en avait pas le droit.
-
----
-
-## PNJ liés
-
-- [Emil Dracktus](/pnj/emil-dracktus/) - Maître du manoir

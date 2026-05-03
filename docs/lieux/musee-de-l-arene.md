@@ -1,10 +1,12 @@
-# Musée de l'Arène (musée des combats de l'arène)
+# Musée de l'Arène
 
-![](/assets/images/musee-de-larene.webp){.center}
+![](../assets/images/fiche-musee-de-l-arene.webp){.center}
 
 Le Musée de l’Arène n’est pas seulement un lieu d’exposition, mais un sanctuaire de mémoire pour le Quartier des Champions. Pour les joueurs, il représente une opportunité unique de se plonger dans l’histoire de la cité, de s’immerger dans les récits épiques des anciens combattants, ou même de prouver leur propre valeur face aux échos glorieux du passé.
 
 ### Extérieur du musée
+
+![](../assets/images/musee-de-l-arene.webp){.center}
 
 Le Musée de l’Arène est un bâtiment monumental, construit en pierre sombre incrustée de marbre rouge, évoquant le sang et la gloire des combats passés. Deux statues colossales encadrent l’entrée principale : un gladiateur en position de garde et une guerrière en pleine charge, tous deux représentant des champions légendaires de l’arène. Une frise gravée au-dessus des portes raconte la victoire fondatrice du prêtre de Kord, Teraknian, lors du duel épique qui l’a conduit à établir son autorité sur la cité. L’air résonne des échos du quartier, mêlant le martèlement des bottes, les cris d’entraînement et les chants de guerre.
 
@@ -26,11 +28,11 @@ Plusieurs salles annexes mènent à des expositions thématiques :
 
 Le musée est supervisé par Lysara, une érudite passionnée, et Dragan, un ancien gladiateur. Le duo est aussi opposé qu’efficace dans la gestion de ce lieu de mémoire.
 
-![](/assets/images/lysara.webp){.float-right .img-150}
+![](../assets/images/lysara.webp){.float-right .img-150}
 
-[Lysara](/pnj/lysara/), une femme dans la trentaine, a une allure élégante mais pratique. Ses cheveux roux flamboyants sont noués en une tresse stricte, et elle porte toujours une tunique sobre ornée de motifs évoquant les chaînes de l’arène, symbole de discipline et de tradition. Lysara est une historienne acharnée qui connaît par cœur chaque artefact du musée, mais elle cache une certaine mélancolie. Issue d’une famille de mercenaires, elle a perdu son frère aîné dans l’arène et a juré de préserver l’histoire des combattants pour que leurs sacrifices ne soient pas oubliés. Sa voix douce et sa passion convainquent même les visiteurs les plus blasés.
+[Lysara](../pnj/lysara.md), une femme dans la trentaine, a une allure élégante mais pratique. Ses cheveux roux flamboyants sont noués en une tresse stricte, et elle porte toujours une tunique sobre ornée de motifs évoquant les chaînes de l’arène, symbole de discipline et de tradition. Lysara est une historienne acharnée qui connaît par cœur chaque artefact du musée, mais elle cache une certaine mélancolie. Issue d’une famille de mercenaires, elle a perdu son frère aîné dans l’arène et a juré de préserver l’histoire des combattants pour que leurs sacrifices ne soient pas oubliés. Sa voix douce et sa passion convainquent même les visiteurs les plus blasés.
 
-[Dragan](/pnj/dragan/), en revanche, est une montagne de muscles dans la cinquantaine, marqué par les cicatrices des innombrables batailles qu’il a livrées dans l’arène. Sa voix grave et autoritaire impose le respect, et il est souvent vu en train d’expliquer aux visiteurs les subtilités des armes exposées. Si Dragan a pris sa retraite après une blessure au genou, il reste une figure légendaire dans le quartier, connu pour son duel mythique contre un minotaure enragé qui a scellé sa réputation. Malgré son allure rude, il a un profond respect pour Lysara et agit comme son protecteur, prêt à lever la voix (ou le poing) si quiconque manque de respect au musée ou à son histoire.
+[Dragan](../pnj/dragan.md), en revanche, est une montagne de muscles dans la cinquantaine, marqué par les cicatrices des innombrables batailles qu’il a livrées dans l’arène. Sa voix grave et autoritaire impose le respect, et il est souvent vu en train d’expliquer aux visiteurs les subtilités des armes exposées. Si Dragan a pris sa retraite après une blessure au genou, il reste une figure légendaire dans le quartier, connu pour son duel mythique contre un minotaure enragé qui a scellé sa réputation. Malgré son allure rude, il a un profond respect pour Lysara et agit comme son protecteur, prêt à lever la voix (ou le poing) si quiconque manque de respect au musée ou à son histoire.
 
 ### Petite histoire des gardiens
 
@@ -50,9 +52,3 @@ Dragan et Lysara ont une relation de camaraderie teintée de complicité respect
 ### Ambiance sonore et olfactive
 
 Un silence presque cérémonial règne dans le musée, seulement brisé par les murmures des visiteurs ou les récits passionnés des guides. On entend parfois le cliquetis métallique des armes déplacées pour l’entretien ou les pas lourds de Dragan sur le sol. Une odeur de cuir vieilli, de métal et d’encens léger imprègne l’air, renforçant l’impression de respect pour les reliques exposées.
-
----
-
-## PNJ liés
-
-- [Lysara](/pnj/lysara/) et [Dragan](/pnj/dragan/) - Superviseurs du musée

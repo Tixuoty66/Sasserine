@@ -1,10 +1,12 @@
-# Le Vortex des Destins (diseuse de bonne aventure)
+# Le Vortex des Destins
 
-![](/assets/images/vortex-des-destins.webp){.center}
+![](../assets/images/fiche-vortex-des-destins.webp){.center}
 
 Pour les joueurs, le Vortex des Destins est une halte intrigante et potentiellement décisive dans leur aventure. Althéa pourrait révéler des indices cryptiques, offrant des visions et des avertissements qui influenceraient leurs décisions futures. Ses prédictions, parfois énigmatiques, peuvent être l’étincelle qui les mène vers la gloire ou la prudence qui les détourne du danger.
 
 ### Extérieur du Vortex des Destins
+
+![](../assets/images/vortex-des-destins.webp){.center}
 
 À l’écart des tavernes bruyantes et des arènes bondées du Quartier des Champions, une petite échoppe intrigante attire les regards. Elle est reconnaissable par sa devanture étroite, ornée de voiles sombres et de motifs dorés représentant des spirales et des symboles mystérieux. Un simple panneau en bois suspendu au-dessus de l’entrée porte le nom “Vortex des Destins” peint en lettres tourbillonnantes. Dès l’entrée, une étrange énergie semble envelopper les visiteurs, les plongeant dans un mélange de curiosité et d’appréhension.
 
@@ -16,9 +18,9 @@ Les murs de l’échoppe sont couverts de parchemins anciens, de cartes astrolog
 
 #### Althéa, la diseuse de bonne aventure
 
-![](/assets/images/althea-la-spirale.webp){.float-right .img-150}
+![](../assets/images/althea-la-spirale.webp){.float-right .img-150}
 
-[Althéa](/pnj/althea/), surnommée “la Spirale”, est une figure mystérieuse et énigmatique du Quartier des Champions. Elle est connue pour sa capacité à lire dans les méandres du destin des guerriers et à révéler leurs potentiels futurs, les avertissant des périls ou des gloires qui les attendent. D’apparence frêle, elle a un visage marqué par le temps, où des rides fines entourent ses yeux clairs et perçants. Ses cheveux blancs, parsemés de mèches argentées, sont noués en une tresse complexe, ornée de petits charmes et de perles.
+[Althéa](../pnj/althea.md), surnommée “la Spirale”, est une figure mystérieuse et énigmatique du Quartier des Champions. Elle est connue pour sa capacité à lire dans les méandres du destin des guerriers et à révéler leurs potentiels futurs, les avertissant des périls ou des gloires qui les attendent. D’apparence frêle, elle a un visage marqué par le temps, où des rides fines entourent ses yeux clairs et perçants. Ses cheveux blancs, parsemés de mèches argentées, sont noués en une tresse complexe, ornée de petits charmes et de perles.
 
 Althéa se déplace lentement, ses doigts longs et fins effleurant chaque objet de son échoppe avec une étrange tendresse. Ses mains semblent danser lorsqu’elle manipule les cartes ou touche la surface de son cristal, comme si elle communiquait avec des forces invisibles. On raconte qu’elle est née avec une tache de naissance en forme de spirale dans la paume de sa main, signe de son lien avec les “courants du destin”. Cette spirale est d’ailleurs devenue son emblème, et elle la dessine souvent pour bénir ceux qui viennent la consulter.
 
@@ -37,9 +39,3 @@ Althéa n’a pas toujours été une diseuse de bonne aventure. Autrefois, elle 
 ### Ambiance sonore et olfactive
 
 Le Vortex des Destins est un lieu où le silence est aussi lourd que la présence des mystères. On entend parfois le léger tintement des charmes de verre, ou les murmures d’Althéa qui parle dans une langue ancienne en disposant des cartes. L’encens aux parfums envoûtants de myrrhe, de lavande et d’herbes mystiques imprègne l’atmosphère, créant une ambiance à la fois apaisante et inquiétante.
-
----
-
-## PNJ liés
-
-- - [Althéa](/pnj/althea/) - la diseuse de bonne aventure

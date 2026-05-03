@@ -1,12 +1,14 @@
-# Guilde des charpentiers navals
+# Guilde des Charpentiers Navals
 
-![](/assets/images/guilde-des-charpentiers-navals.webp){.center}
-
-*“Dans un quartier où tout pourrit, il reste un homme debout… et des navires qui tiennent la mer.”*
+![](../assets/images/fiche-guilde-des-charpentiers-navals.webp){.center}
 
 Enclavée sur les berges d’Ombrerive, la Guilde des Charpentiers navals est un des rares établissements du quartier à tenir bon face à la décrépitude et aux intimidations. Dirigée d’une main ferme par Gregar Skeen, elle est le cœur battant d’un savoir-faire ancestral, où se construit — ou se rafistole — tout ce qui flotte, de la barque du pêcheur au pont d’un contrebandier. Les PJ y trouveront des artisans fiers, des secrets de calfat, et une porte d’entrée dans le monde du transport maritime… ou du commerce illicite.
 
 ### Extérieur
+
+![](../assets/images/guilde-des-charpentiers-navals.webp){.center}
+
+*“Dans un quartier où tout pourrit, il reste un homme debout… et des navires qui tiennent la mer.”*
 
 La guilde occupe un large bâtiment en bois et pierre, sur Harbor Way à l'est du quartier d’Ombrerive. L’odeur de goudron chaud, de sciure et d’eau saumâtre flotte dans l’air. Des coques de navires en construction ou en réparation émergent à moitié des eaux noires, soutenues par d’immenses étais de bois rugueux.
 
@@ -20,9 +22,9 @@ Un comptoir d’accueil, marqué de coups d’herminette, est occupé par un app
 
 #### Gregar Skeen, le Chêne d’Ombrerive
 
-![](/assets/images/gregar-skeen.webp){.float-right .img-150}
+![](../assets/images/gregar-skeen.webp){.float-right .img-150}
 
-[Gregar Skeen](/pnj/gregar-skeen/) est un homme massif au dos voûté par le travail, aux mains tordues et pleines de cals, et aux yeux perçants comme des clous frais. Toujours vêtu d’un tablier de cuir et d’une chemise roulée jusqu’aux coudes, il parle peu, mais chaque mot est solide.
+[Gregar Skeen](../pnj/gregar-skeenv.md) est un homme massif au dos voûté par le travail, aux mains tordues et pleines de cals, et aux yeux perçants comme des clous frais. Toujours vêtu d’un tablier de cuir et d’une chemise roulée jusqu’aux coudes, il parle peu, mais chaque mot est solide.
 
 ### Petite histoire
 
@@ -43,9 +45,3 @@ Issu d’une lignée de charpentiers installée à Ombrerive depuis trois géné
 ### Ambiance sonore et olfactive
 
 Le martèlement constant des outils, les ordres hurlés sur les échafaudages, les râles des scies et le grincement des poulies composent une musique chaotique, rythmée comme le ressac. L’air sent la résine, le bois frais, l’huile de lin, la sueur, et parfois, plus discrètement, l’alcool caché dans les tonneaux.
-
----
-
-## PNJ liés
-
-- [Gregar Skeen](/pnj/gregar-skeen/) - Maître de la guilde

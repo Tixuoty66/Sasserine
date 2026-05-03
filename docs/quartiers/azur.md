@@ -1,18 +1,18 @@
 # Quartier Azur
 
-[Carte interactive du Quartier Azur](/cartes/azur.html)
+[Carte interactive du Quartier Azur](../cartes/azur.html)
 
 Le quartier Azur est le véritable front de mer de Sasserine. Composé de deux secteurs, le Quartier Azur abrite également la majorité des bidonvilles et des citoyens de classe inférieure de la ville, bien qu'ils ne soient pas aussi désespérés que ceux qui sont contraints de vivre à Ombrerive.
 
 Le secteur ouest du Quartier Azur s'occupe principalement des voies navigables de la cité, tandis que le secteur est abrite l'industrie baleinière en plein essor de la cité.
 
-![](/assets/images/islaran.webp){.float-right .img-150}
+![](../assets/images/islaran.webp){.float-right .img-150}
 
-Les nobles qui représentent le Quartier Azur sont les **Islaran**, une famille titulaire du poste de capitaine du port depuis de nombreuses générations, mais la rumeur veut que le vieux [Keltar Islaran](/pnj/keltar-islaran/) prenne de l'âge et qu'aucun de ses enfants ne tienne particulièrement à ce poste lorsqu'il passera l'arme à gauche. La rumeur veut aussi que la famille Kellani ait des vues sur ce poste, mais les relations entre ces deux familles étant aussi houleuses qu'elles le sont ces temps-ci, il est peu probable qu'un tel changement se produise tant que le vieux Keltar est encore en vie.
+Les nobles qui représentent le Quartier Azur sont les **Islaran**, une famille titulaire du poste de capitaine du port depuis de nombreuses générations, mais la rumeur veut que le vieux [Keltar Islaran](../pnj/keltar-islaran.md) prenne de l'âge et qu'aucun de ses enfants ne tienne particulièrement à ce poste lorsqu'il passera l'arme à gauche. La rumeur veut aussi que la famille Kellani ait des vues sur ce poste, mais les relations entre ces deux familles étant aussi houleuses qu'elles le sont ces temps-ci, il est peu probable qu'un tel changement se produise tant que le vieux Keltar est encore en vie.
 
 ### Les citoyens
 
-Si vous êtes originaire du Quartier Azur, vous avez probablement passé une bonne partie de votre jeunesse en mer. Vous avez des amis ou de la famille qui travaillent dans l'industrie baleinière, et vous avez peut-être vous-même passé du temps sur un baleinier. Vous êtes probablement un fidèle de la [Cathédrale Azur](/lieux/cathedrale-azur/), un temple dédié à Osprem (la déesse des navires et des marins), Procan (le dieu de la mer), et Xerbo (le dieu du commerce maritime). Les clercs qui vénèrent ces trois divinités peuvent être de n'importe quel alignement.
+Si vous êtes originaire du Quartier Azur, vous avez probablement passé une bonne partie de votre jeunesse en mer. Vous avez des amis ou de la famille qui travaillent dans l'industrie baleinière, et vous avez peut-être vous-même passé du temps sur un baleinier. Vous êtes probablement un fidèle de la [Cathédrale Azur](../lieux/cathedrale-azur.md), un temple dédié à Osprem (la déesse des navires et des marins), Procan (le dieu de la mer), et Xerbo (le dieu du commerce maritime). Les clercs qui vénèrent ces trois divinités peuvent être de n'importe quel alignement.
 
 ### Originaire du Quartier Azur
 
@@ -54,17 +54,17 @@ Pour les persuader que vous ne leur voulez aucun mal, vous devez réussir un tes
 
 ## PNJ célèbres
 
-[Belrain Daskeral](/pnj/belrain-daskeral/) (humain) : Grand prêtre de la [Cathédrale Azur](/lieux/cathedrale-azur/), Belrain est un homme à la voix douce qui administre l'église du quartier avec ses douze acolytes. Belrain est connu pour avoir un caractère bien trempé.
+[Belrain Daskeral](../pnj/belrain-daskeral.md) (humain) : Grand prêtre de la [Cathédrale Azur](../lieux/cathedrale-azur.md), Belrain est un homme à la voix douce qui administre l'église du quartier avec ses douze acolytes. Belrain est connu pour avoir un caractère bien trempé.
 
-[Capitaine Shadwik](/pnj/capitaine-shadwik/) (humain) : Maître de la [Guilde des baleiniers](/lieux/guilde-baleiniers/), le capitaine Shadwik est un homme râblé qui a fait fortune en tant que baleinier. Aujourd'hui trop âgé pour être capitaine de son propre navire, il représente les baleiniers et les habitants de la ville.
+[Capitaine Shadwik](../pnj/capitaine-shadwik.md) (humain) : Maître de la [Guilde des baleiniers](../lieux/guilde-baleiniers.md), le capitaine Shadwik est un homme râblé qui a fait fortune en tant que baleinier. Aujourd'hui trop âgé pour être capitaine de son propre navire, il représente les baleiniers et les habitants de la ville.
 
-[Heldrath Kellani](/pnj/heldrath-kellani/) (humaine) : Matrone de la famille Kellani, Heldrath était autrefois une aventurière (certains disent une pirate) dont on pense qu'elle n'a pas tout à fait abandonné les passe-temps douteux de sa jeunesse. On raconte qu'elle est assez malade.
+[Heldrath Kellani](../pnj/heldrath-kellani.md) (humaine) : Matrone de la famille Kellani, Heldrath était autrefois une aventurière (certains disent une pirate) dont on pense qu'elle n'a pas tout à fait abandonné les passe-temps douteux de sa jeunesse. On raconte qu'elle est assez malade.
 
-[Keltar Islaran](/pnj/keltar-islaran/) (humain) : Seigneur du Manoir des Islaran et représentant du Quartier Azur au Conseil de l'Aube, Keltar est un noble vieillissant dont les enfants ont soit disparus, soit n'ont pas vraiment envie de perpétuer la tradition familiale consistant à occuper le poste de capitaine du port.
+[Keltar Islaran](../pnj/keltar-islaran.md) (humain) : Seigneur du Manoir des Islaran et représentant du Quartier Azur au Conseil de l'Aube, Keltar est un noble vieillissant dont les enfants ont soit disparus, soit n'ont pas vraiment envie de perpétuer la tradition familiale consistant à occuper le poste de capitaine du port.
 
-[Maklash Gristwhistle](/pnj/maklash-gristwhistle/) (nain) : Ce nain obèse et presque maniaquement joyeux dirige la Guilde des dragueurs de fonds, l'organisation chargée de garder les voies d'eau et les canaux de Sasserine libres d'obstructions et de saletés.
+[Maklash Gristwhistle](../pnj/maklash-gristwhistle.md) (nain) : Ce nain obèse et presque maniaquement joyeux dirige la Guilde des dragueurs de fonds, l'organisation chargée de garder les voies d'eau et les canaux de Sasserine libres d'obstructions et de saletés.
 
-[Rowyn Kellani](/pnj/rowyn-kellani/) (humaine) : Fille aînée de la famille Kellani, et la plus susceptible de prendre le contrôle du domaine lorsque sa mère Heldrath décédera.
+[Rowyn Kellani](../pnj/rowyn-kellani.md) (humaine) : Fille aînée de la famille Kellani, et la plus susceptible de prendre le contrôle du domaine lorsque sa mère Heldrath décédera.
 
 ---
 
@@ -72,26 +72,26 @@ Pour les persuader que vous ne leur voulez aucun mal, vous devez réussir un tes
 
 1. Manoir des Islaran (représentant du quartier)
 2. Appâts et Délices (appâts et boulangerie)
-3. [Guilde des dragueurs de fonds](/lieux/guilde-dragueurs/)
-4. [Les Filets de Nate (filets, matériel de pêche)](/lieux/filets-de-nate/)
-5. [La Dernière Gorgée (taverne)](/lieux/derniere-gorgee/)
-6. [Le Pélican Rouge (taverne et auberge)](/lieux/pelican-rouge)
+3. [Guilde des dragueurs de fonds](../lieux/guilde-des-dragueurs-de-fonds.md)
+4. [Les Filets de Nate (filets, matériel de pêche)](../lieux/filets-de-nate.md)
+5. [La Dernière Gorgée (taverne)](../lieux/derniere-gorgee.md)
+6. [Le Pélican Rouge (taverne et auberge)](../lieux/pelican-rouge.md)
 7. Manoir des Kellani (petite noblesse)
 8. Onguents de Bizwor (médicaments et remèdes contre le mal de mer)
 9. Guilde des pêcheurs de perles
-10. [L'Antre de la Mouette (maison close)](/lieux/antre-mouette/)
+10. [L'Antre de la Mouette (maison close)](../lieux/antre-mouette.md)
 11. Guilde des cordiers
 12. Garnison d'Azur
 13. Le Marché Est (produits de consommation courante, fruits de mer, animaux)
 14. Le Chant de la Sirène (maison close)
 15. L’Atelier du Scrimshaw (art raffiné du scrimshaw)
-16. [Cathédrale Azur (église du quartier)](/lieux/cathedrale-azur/)
+16. [Cathédrale Azur (église du quartier)](../lieux/cathedrale-azur.md)
 17. Les Plaisirs de Sasserine (taverne/maison close)
 18. La Baleine à bosse (chasse à la baleine)
-19. [Guilde des tatoueurs](/lieux/guilde-tatoueurs/)
+19. [Guilde des tatoueurs](../lieux/guilde-tatoueurs.md)
 20. Les Baleiniers de Sasserine (chasse à la baleine)
 21. Le Dauphin ivre (taverne de chasseurs de baleines)
-22. [Guilde des baleiniers](/lieux/guilde-baleiniers/)
+22. [Guilde des baleiniers](../lieux/guilde-baleiniers.md)
 23. Les Baleiniers de la Mer Rouge (chasse à la baleine)
 24. Guilde des poissonniers
 25. Phare d'Azur

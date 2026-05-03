@@ -1,10 +1,12 @@
 # Cathédrale Azur
 
-![](/assets/images/cathedrale-azur.webp){.center}
+![](../assets/images/fiche-cathedrale-azur.webp){.center}
 
 La Cathédrale Azur est bien plus qu’un lieu de prière ; elle est un sanctuaire de paix et de protection, un bastion d’espoir pour les marins et les âmes en quête de sérénité. Pour les joueurs, ce sera un endroit où chercher guidance, apprendre les secrets de l’océan ou bénéficier des bénédictions de Belrain, dont la voix douce et l’autorité bienveillante résonnent comme un écho de la sagesse des profondeurs.
 
 ### Extérieur de la Cathédrale Azur
+
+![](../assets/images/cathedrale-azur.webp){.center}
 
 Majestueuse et impressionnante, la Cathédrale Azur se dresse au cœur du quartier comme un véritable joyau de pierre et de verre. Son architecture élégante et imposante mêle arches élancées et minces colonnes, chacune gravée de motifs représentant les vagues et les créatures marines. Les murs, d’un bleu pâle, semblent capter la lumière du ciel et de l’eau, donnant à la cathédrale une aura lumineuse. Les immenses vitraux aux tons de bleu, de vert et d’argent brillent avec intensité au soleil, projetant des reflets ondoyants à l’intérieur. Au sommet, une statue représentant une figure divine tenant un trident semble bénir ceux qui entrent.
 
@@ -16,9 +18,9 @@ Un parfum subtil d’encens marin et de sel flotte dans l’air, accompagné du 
 
 #### Le Grand Prêtre
 
-![](/assets/images/belrain-daskeral.webp){.float-right .img-150}
+![](../assets/images/belrain-daskeral.webp){.float-right .img-150}
 
-[Belrain Daskeral](/pnj/belrain-daskeral/) est un homme d’âge mûr, au visage marqué par les années mais adouci par une expression de calme et de sagesse. Sa voix est douce et posée, contrastant avec son caractère réputé bien trempé. Ses cheveux gris sont retenus par une tresse sobre, et ses yeux, d’un bleu profond, semblent toujours attentifs et bienveillants. Vêtu d’une longue robe aux teintes de l’océan, il porte une amulette en argent représentant un tourbillon, symbole de la dévotion à l’eau et de sa force intérieure.
+[Belrain Daskeral](../pnj/belrain-daskeral.md) est un homme d’âge mûr, au visage marqué par les années mais adouci par une expression de calme et de sagesse. Sa voix est douce et posée, contrastant avec son caractère réputé bien trempé. Ses cheveux gris sont retenus par une tresse sobre, et ses yeux, d’un bleu profond, semblent toujours attentifs et bienveillants. Vêtu d’une longue robe aux teintes de l’océan, il porte une amulette en argent représentant un tourbillon, symbole de la dévotion à l’eau et de sa force intérieure.
 
 Connu pour sa droiture et sa fermeté, Belrain est un homme de foi respecté et redouté. S’il accueille tous ceux qui cherchent réconfort et conseils, il ne tolère aucune forme d’irrespect envers les croyances de son ordre. Ses sermons, bien que calmes, sont puissants et emplis de sagesse. Il est également un excellent médiateur, connu pour ramener la paix entre les factions du quartier grâce à sa manière douce mais intransigeante de rappeler les principes d’harmonie et de respect de l’eau.
 
@@ -54,9 +56,3 @@ Belrain a hérité de la charge de Grand Prêtre après un événement marquant 
 ### Ambiance sonore et olfactive
 
 La cathédrale est bercée par un murmure apaisant, rappelant le flux et le reflux des vagues, accentué par le chant discret des acolytes. L’odeur de sel et de plantes aquatiques, légèrement relevée d’encens, emplit les lieux, ajoutant à l’atmosphère sacrée et inspirant une profonde paix intérieure.
-
----
-
-## PNJ liés
-
-- [Belrain Daskeral](/pnj/belrain-daskeral/) — Grand prêtre du sanctuaire

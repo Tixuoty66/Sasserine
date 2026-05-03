@@ -1,10 +1,12 @@
-# Aiguille de Callisto (salon de tatouage et expert des plans d'existence)
+# Aiguille de Callisto
 
-![](/assets/images/aiguille-de-callisto.webp){.center}
+![](../assets/images/fiche-aiguille-de-callisto.webp)
 
 L’Aiguille de Callisto est bien plus qu’un simple salon de tatouage : c’est un pont entre les mondes, un lieu où le corps devient une carte et où chaque encre raconte une histoire qui dépasse le cadre du réel. Un endroit idéal pour ceux qui cherchent à inscrire leur destin dans la peau… ou à effleurer les mystères de l’univers.
 
 ### Extérieur du salon
+
+![](../assets/images/aiguille-de-callisto.webp){.center}
 
 L’Aiguille de Callisto se dresse dans une ruelle calme du Quartier Noble, loin du tumulte des grandes artères. Son enseigne, sculptée dans une pierre sombre, représente une aiguille dorée transperçant un cercle étoilé. Une faible lueur iridescente semble parcourir les motifs gravés sur la devanture, donnant l’impression que l’enseigne change subtilement de forme lorsqu’on la regarde trop longtemps. Le bâtiment lui-même est modeste mais raffiné, avec une façade en bois d’ébène ornée de filigranes argentés. Une lanterne à la lumière bleutée éclaire l’entrée, projetant des ombres qui paraissent danser d’elles-mêmes.
 
@@ -18,13 +20,13 @@ Un parfum d’encens étrange flotte dans l’air, mélange de résines inconnue
 
 #### Callisto, Maître-Tatoueur
 
-![](/assets/images/callisto.webp){.float-right .img-150}
+![](../assets/images/callisto.webp){.float-right .img-150}
 
-[Callisto](/pnj/callisto/), Maître-Tatoueur et Expert des Plans, est un homme à l’apparence singulière : grand et élancé, vêtu d’une tunique sombre ornée de symboles ésotériques, il porte une peau parsemée de tatouages vivants, qui se déplacent lentement sur son corps comme des ombres insaisissables. Son visage est anguleux, et ses yeux, d’un bleu profond parsemé d’éclats d’argent, semblent refléter des mondes lointains. Il parle d’une voix calme et envoutante, son ton oscillant entre l’érudition et la rêverie. Il est à la fois tatoueur et érudit des plans d’existence, capable de graver sur la peau des glyphes qui confèrent des bénédictions, des protections et même des fragments de connaissance interdite. Callisto est réputé pour avoir voyagé à travers les dimensions. On raconte qu’il aurait un jour franchi un portail interdit et serait revenu avec une vision du multivers qui dépasse l’entendement des mortels. Certains disent qu’il n’est plus tout à fait humain, que son corps n’est qu’un réceptacle pour un fragment d’une entité cosmique.
+[Callisto](../pnj/callisto.md), Maître-Tatoueur et Expert des Plans, est un homme à l’apparence singulière : grand et élancé, vêtu d’une tunique sombre ornée de symboles ésotériques, il porte une peau parsemée de tatouages vivants, qui se déplacent lentement sur son corps comme des ombres insaisissables. Son visage est anguleux, et ses yeux, d’un bleu profond parsemé d’éclats d’argent, semblent refléter des mondes lointains. Il parle d’une voix calme et envoutante, son ton oscillant entre l’érudition et la rêverie. Il est à la fois tatoueur et érudit des plans d’existence, capable de graver sur la peau des glyphes qui confèrent des bénédictions, des protections et même des fragments de connaissance interdite. Callisto est réputé pour avoir voyagé à travers les dimensions. On raconte qu’il aurait un jour franchi un portail interdit et serait revenu avec une vision du multivers qui dépasse l’entendement des mortels. Certains disent qu’il n’est plus tout à fait humain, que son corps n’est qu’un réceptacle pour un fragment d’une entité cosmique.
 
 ### Petite histoire
 
-Callisto ne parle jamais de son passé, mais les rumeurs courent. Certains prétendent qu’il était autrefois un mage prometteur, étudiant à la [Tour des Sorcières](/lieux/tour-des-sorcieres/), avant de disparaître plusieurs années dans un plan inconnu. À son retour, il abandonna la magie traditionnelle pour se consacrer à l’art du tatouage, mais ceux qui connaissent les arcanes savent que ses encres ne sont pas ordinaires. Une légende urbaine affirme qu’un noble autrefois arrogant s’était présenté pour un tatouage destiné à lui conférer force et pouvoir. Mais après la séance, il disparut sans laisser de trace, ne laissant derrière lui qu’une ombre projetée sur le mur du salon, comme si son corps avait été absorbé par un autre plan. Callisto, interrogé sur l’incident, s’était contenté de sourire et de murmurer : *“Certains ne sont pas prêts à voir au-delà du voile.”*
+Callisto ne parle jamais de son passé, mais les rumeurs courent. Certains prétendent qu’il était autrefois un mage prometteur, étudiant à la [Tour des Sorcières](../lieux/tour-des-sorcieres.md), avant de disparaître plusieurs années dans un plan inconnu. À son retour, il abandonna la magie traditionnelle pour se consacrer à l’art du tatouage, mais ceux qui connaissent les arcanes savent que ses encres ne sont pas ordinaires. Une légende urbaine affirme qu’un noble autrefois arrogant s’était présenté pour un tatouage destiné à lui conférer force et pouvoir. Mais après la séance, il disparut sans laisser de trace, ne laissant derrière lui qu’une ombre projetée sur le mur du salon, comme si son corps avait été absorbé par un autre plan. Callisto, interrogé sur l’incident, s’était contenté de sourire et de murmurer : *“Certains ne sont pas prêts à voir au-delà du voile.”*
 
 ### Rôle pour les joueurs
 
@@ -39,9 +41,3 @@ Callisto ne parle jamais de son passé, mais les rumeurs courent. Certains prét
 ### Ambiance
 
 L’Aiguille de Callisto est un lieu où se mêlent l’art et le mysticisme. Chaque tatouage qu’il réalise est une porte ouverte vers l’inconnu, un fragment de pouvoir gravé dans la chair. Certains clients en ressortent renforcés, d’autres… changés à jamais.
-
----
-
-## PNJ liés
-
-- [Callisto](/pnj/callisto/) - Maître-Tatoueur et Expert des Plans

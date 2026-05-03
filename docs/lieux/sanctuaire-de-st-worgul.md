@@ -1,12 +1,14 @@
-# Sanctuaire de St. Worgul (église de quartier)
+# Sanctuaire de St. Worgul
 
-![](/assets/images/sanctuaire-de-st-worgul.webp){.center}
-
-*“Même dans les quartiers les plus sombres, une lumière peut survivre… aussi cabossée soit-elle.”*
+![](../assets/images/fiche-sanctuaire-de-st-worgul.webp){.center}
 
 Modeste mais lumineux, le Sanctuaire de St Worgul est un îlot de dignité dans le cloaque d’Ombrerive. Dédié à une figure historique oubliée mais inspirante — la naine Worgul, marchande légendaire à l’apparence monstrueuse mais au cœur d’or et à l’esprit tranchant — le sanctuaire attire les pauvres, les difformes, les marginaux, et tous ceux que la ville méprise. Les joueurs y trouveront un havre de paix inattendu, un gardien au sourire franc, et peut-être des révélations venues d’en bas.
 
 ### Extérieur
+
+![](../assets/images/sanctuaire-de-st-worgul.webp){.center}
+
+*“Même dans les quartiers les plus sombres, une lumière peut survivre… aussi cabossée soit-elle.”*
 
 À première vue, le Sanctuaire de St Worgul pourrait passer pour un entrepôt abandonné. Coincé entre deux immeubles de pierre effritée, il n’a rien de majestueux : murs de briques noircies, toit en tuiles rapiécées, et une lourde porte de bois dont la peinture bleue s’écaille. Mais au-dessus de cette porte, gravée dans un simple arc de pierre, une inscription presque effacée persiste :« La beauté se trouve dans ce qu’on ne voit pas. »
 
@@ -22,9 +24,9 @@ Le sanctuaire ne résonne pas de chants pieux ni de sermons, mais de silences co
 
 #### Jalpe Jinn, le Gardien des Rejetés
 
-![](/assets/images/jalpe-jinn.webp){.float-right .img-150}
+![](../assets/images/jalpe-jinn.webp){.float-right .img-150}
 
-[Jalpe Jinn](/pnj/jalpe-jinn/), demi-orc à la carrure impressionnante, détonne dans le rôle de prêtre. Vêtu d’une simple robe de lin et d’un gilet en cuir râpé, il porte un sourire sincère et des yeux fatigués. Il a le verbe simple, la main large, et l’accolade généreuse. Dans Ombrerive, rares sont ceux qui peuvent se vanter de n’avoir que des amis — lui en fait presque partie.
+[Jalpe Jinn](../pnj/jalpe-jinn.md), demi-orc à la carrure impressionnante, détonne dans le rôle de prêtre. Vêtu d’une simple robe de lin et d’un gilet en cuir râpé, il porte un sourire sincère et des yeux fatigués. Il a le verbe simple, la main large, et l’accolade généreuse. Dans Ombrerive, rares sont ceux qui peuvent se vanter de n’avoir que des amis — lui en fait presque partie.
 
 ### Petite histoire
 
@@ -45,9 +47,3 @@ Orphelin né d’un viol de guerre, élevé par des mendiants et battu par tous 
 ### Ambiance sonore et olfactive
 
 À l’intérieur, le bruit d’Ombrerive semble lointain. On entend le craquement du bois, le bruissement des bougies, le cliquetis d’une marmite sur le feu. Une douce odeur d’herbes sèches, de cire et de soupe flotte dans l’air. Parfois, un rire, une toux, un “merci” murmuré. Un silence rare, mais jamais vide.
-
----
-
-## PNJ liés
-
-- [Jalpe Jinn](/pnj/jalpe-jinn/) - Prêtre du sanctuaire

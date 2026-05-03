@@ -1,12 +1,12 @@
 # Le Quartier Noble
 
-[Carte interactive du Quartier Noble](/cartes/noble.html)
+[Carte interactive du Quartier Noble](../cartes/noble.html)
 
 Le Quartier Noble est traditionnellement considéré comme le quartier dirigeant de la ville, même si le Château Teraknian n'en fait techniquement pas partie. Pourtant, la confiance de Sasserine en ses dirigeants a été ébranlée (voir l'histoire de Sasserine ci-dessous), et cette perte de confiance n'est nulle part plus évidente que dans ce quartier. Aujourd'hui, les citoyens du Quartier Noble passent trop de temps à se chamailler avec ceux du Quartier des Champions et à essayer d'organiser leur quartier en une société autonome. Dans les bars du Quartier Noble, on parle couramment de faire sécession avec Sasserine. Les autres quartiers considèrent de plus en plus le Quartier noble comme un lieu de décadence et de vanité, et attendent avec impatience qu'il tombe sous le coup de ses propres excès.
 
-![](/assets/images/lidu.webp){.float-right .img-150}
+![](../assets/images/lidu.webp){.float-right .img-150}
 
-Les nobles qui représentent le Quartier Noble sont les **Lidu**. Avec la fin de la lignée Teraknian il y a plus de 100 ans, les Lidu sont devenus la plus ancienne famille noble de la ville. Le patriarche de la famille, [Worrin Lidu](/pnj/worrin-lidu/), est un noble au grand cœur qui est peut-être trop doux et indulgent pour réussir à Sasserine en tant que noble. Sa principale préoccupation aujourd'hui semble être la réconciliation des églises de Wee Jas et de Kord.
+Les nobles qui représentent le Quartier Noble sont les **Lidu**. Avec la fin de la lignée Teraknian il y a plus de 100 ans, les Lidu sont devenus la plus ancienne famille noble de la ville. Le patriarche de la famille, [Worrin Lidu](../pnj/worrin-lidu.md), est un noble au grand cœur qui est peut-être trop doux et indulgent pour réussir à Sasserine en tant que noble. Sa principale préoccupation aujourd'hui semble être la réconciliation des églises de Wee Jas et de Kord.
 
 ### Les citoyens
 
@@ -26,33 +26,33 @@ Les gardes du Quartier Noble sont passés maîtres dans l'art de la discrétion.
 
 #### PNJ célèbres
 
-[Annah Teranaki](/pnj/annah-teranaki/) (humaine) : Annah est la grande prêtresse du temple de Wee Jas. Un récent scandale impliquant son protégé Embril Aloustinai dans la ville de Chaudron a terni la réputation de l'église.
+[Annah Teranaki](../pnj/annah-teranaki.md) (humaine) : Annah est la grande prêtresse du temple de Wee Jas. Un récent scandale impliquant son protégé Embril Aloustinai dans la ville de Chaudron a terni la réputation de l'église.
 
-[Kiva Willowtop](/pnj/kiva-willowtop/) (femme halfelin) : Kiva est la maîtresse de la Guilde des cartographes.
+[Kiva Willowtop](../pnj/kiva-willowtop.md) (femme halfelin) : Kiva est la maîtresse de la Guilde des cartographes.
 
-[Lux Seoni](/pnj/lux-seoni/) (humaine) : Lux est la mystérieuse (et quelque peu effrayante) maîtresse de la Tour des Sorcières.
+[Lux Seoni](../pnj/lux-seoni.md) (humaine) : Lux est la mystérieuse (et quelque peu effrayante) maîtresse de la Tour des Sorcières.
 
-[Nylaria Absalee](/pnj/nylaria-absalee/) (humaine) : Nylaria, directrice de l'Opéra de Sasserine, est une femme énorme qui profite de sa carrure pour arborer des robes et des coiffures extravagantes. Elle se prend pour l'amie de tout le monde, même si ce n'est pas toujours réciproque.
+[Nylaria Absalee](../pnj/nylaria-absalee.md) (humaine) : Nylaria, directrice de l'Opéra de Sasserine, est une femme énorme qui profite de sa carrure pour arborer des robes et des coiffures extravagantes. Elle se prend pour l'amie de tout le monde, même si ce n'est pas toujours réciproque.
 
-[Worrin Lidu](/pnj/worrin-lidu/) (humain) : Seigneur du manoir de Lidu et représentant du Quartier Noble au Conseil de l'Aube, beaucoup craignent que Worrin ne se soit trop assoupli avec l'âge pour être un dirigeant efficace.
+[Worrin Lidu](../pnj/worrin-lidu.md) (humain) : Seigneur du manoir de Lidu et représentant du Quartier Noble au Conseil de l'Aube, beaucoup craignent que Worrin ne se soit trop assoupli avec l'âge pour être un dirigeant efficace.
 
-[Zebulah Meravanchi](/pnj/zebulah-meravanchi/) (humain) : Zebulah est un noble mineur dont la famille s'intéresse aux divertissements décadents et extrêmes.
+[Zebulah Meravanchi](../pnj/zebulah-meravanchi.md) (humain) : Zebulah est un noble mineur dont la famille s'intéresse aux divertissements décadents et extrêmes.
 
 ---
 
 ## Lieux du Quartier Noble
 
-1. [Maison Hautmur (spécialiste de la géographie de la région)](/lieux/maison-hautmur/)
+1. [Maison Hautmur (spécialiste de la géographie de la région)](../lieux/maison-hautmur.md)
 2. Sanctuaire de Liir (déesse de la poésie et de l'art)
-3. [Tour des Sorcières (Guilde des arcanistes)](/lieux/tour-des-sorcieres/)
+3. [Tour des Sorcières (Guilde des arcanistes)](../lieux/tour-des-sorcieres.md)
 4. Sanctuaire de Lendor (dieu du temps et de l'étude)
 5. Guilde des acteurs
 6. Sanctuaire de Myhriss (déesse de l'amour)
 7. Haut marché (produits de consommation courante, produits exotiques, bijoux, magie)
-8. [La Perle et le Perroquet (taverne/auberge)](/lieux/la-perle-et-le-perroquet/)
+8. [La Perle et le Perroquet (taverne/auberge)](../lieux/la-perle-et-le-perroquet.md)
 9. Le Caprice du Lutin (taverne/salle de jeux)
 10. Guilde des musiciens
-11. [Opéra de Sasserine](/lieux/opera-de-sasserine/)
+11. [Opéra de Sasserine](../lieux/opera-de-sasserine.md)
 12. Guilde des fabricants de cercueils
 13. Manoir Meravanchi (petite noblesse)
 14. Maison des Seigneurs (historien spécialiste de la noblesse et de la royauté)
@@ -67,9 +67,9 @@ Les gardes du Quartier Noble sont passés maîtres dans l'art de la discrétion.
 23. Académie des Cristaux Célestes (école de perfectionnement)
 24. Sanctuaire de Boccob
 25. Garnison du Quartier Noble
-26. [Aiguille de Callisto (salon de tatouage et expert des plans d'existence)](/lieux/aiguille-de-callisto/)
+26. [Aiguille de Callisto (salon de tatouage et expert des plans d'existence)](../lieux/aiguille-de-callisto.md)
 27. Le Bazar de Blenak (boutique de magie et expert en connaissance arcanique)
-28. [Temple de Wee Jas](/lieux/temple-de-wee-jas/)
+28. [Temple de Wee Jas](../lieux/temple-de-wee-jas.md)
 29. Le Murmure du Cristal (boutique de curiosités)
 30. Le Repos de l'Ancêtre (auberge)
 31. Les Murmures du Vent (diseuse de bonne aventure)

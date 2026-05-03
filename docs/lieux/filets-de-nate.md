@@ -1,10 +1,12 @@
-# Les Filets de Nate (filets, matériel de pêche)
+# Les Filets de Nate
 
-![](/assets/images/les-filets-de-nate.webp){.center}
+![](../assets/images/fiche-les-filets-de-nate.webp){.center}
 
 « Les Filets de Nate » est un lieu où les aventuriers et pêcheurs de passage trouveront bien plus que du matériel ; ils trouveront un maître de son art, un homme qui transmet son savoir avec humilité et passion. Ceux qui achètent chez lui ne repartent pas seulement avec des filets solides, mais aussi avec un fragment de l’histoire d’un homme qui a défié les flots et est revenu plus fort. Pour les joueurs, ce sera l’occasion de découvrir l’importance des outils de la mer et de se lier avec un personnage qui incarne le courage et la résilience de ceux qui vivent en harmonie avec l’océan.
 
 ### Extérieur
+
+![](../assets/images/les-filets-de-nate.webp){.center}
 
 « Les Filets de Nate » est une petite échoppe discrète mais accueillante, nichée entre les docks et le marché aux poissons, là où l’odeur de la mer est omniprésente. Une enseigne faite de bois flotté et ornée de cordes indique simplement « Filets et Matériel de Pêche », accompagnée de l’image d’un filet capturant un poisson d’argent. L’échoppe dégage un charme rustique avec ses cordes qui pendent au-dessus de l’entrée et les bouées colorées qui décorent la façade.
 
@@ -16,9 +18,9 @@ Un comptoir massif est couvert d’un assortiment d’outils pour l’entretien 
 
 ### Le propriétaire, « Nate le Noeud »
 
-![](/assets/images/nate-le-noeud.webp){.float-right .img-150}
+![](../assets/images/nate-le-noeud.webp){.float-right .img-150}
 
-L’échoppe est tenue par [Nate « le Noeud »](/pnj/nate-noeud/), un pêcheur vieillissant au visage buriné par le sel et le vent. Nate est un homme à la carrure solide, légèrement voûté par les années mais encore agile et sûr de ses mouvements. Sa barbe grise et courte et ses yeux bleu pâle rappellent les tempêtes marines, tandis que ses mains noueuses témoignent d’une vie passée à travailler des cordes et à ramer sur les eaux agitées.
+L’échoppe est tenue par [Nate « le Noeud »](../pnj/nate-noeud.md), un pêcheur vieillissant au visage buriné par le sel et le vent. Nate est un homme à la carrure solide, légèrement voûté par les années mais encore agile et sûr de ses mouvements. Sa barbe grise et courte et ses yeux bleu pâle rappellent les tempêtes marines, tandis que ses mains noueuses témoignent d’une vie passée à travailler des cordes et à ramer sur les eaux agitées.
 
 Nate est connu pour sa maîtrise exceptionnelle des nœuds et des techniques de tissage de filets. Il peut lier un nœud les yeux fermés, et les pêcheurs disent que ses filets sont presque impossibles à briser, même par les plus grosses prises. Peu bavard, il est néanmoins chaleureux avec ceux qui s’intéressent vraiment à son art, et il partage volontiers ses astuces à ceux qui lui montrent du respect.
 
@@ -37,9 +39,3 @@ On raconte que Nate a autrefois échappé de justesse à une terrible tempête q
 ### Ambiance sonore
 
 Dans la boutique, le silence est ponctué par le léger bruissement des filets accrochés qui se balancent au gré du vent marin, tandis que Nate travaille calmement, le frottement des cordes et des outils se mêlant au doux crépitement des lanternes à huile.
-
----
-
-## PNJ liés
-
-- [Nate le Noeud](/pnj/nate-noeud/) — Propriétaire et maître artisan

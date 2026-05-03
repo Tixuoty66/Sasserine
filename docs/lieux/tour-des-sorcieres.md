@@ -1,10 +1,12 @@
-# Tour des Sorcières (Guilde des arcanistes)
+# Tour des Sorcières
 
-![](/assets/images/tour-des-sorcieres.webp){.center}
+![](../assets/images/fiche-tour-des-sorcieres.webp){.center}
 
 La Tour des Sorcières est un lieu où règnent la magie et le mystère, un sanctuaire pour les arcanistes et un défi pour les audacieux. Les joueurs qui s’y aventurent doivent être prêts à affronter l’intimidante Lux Seoni, à explorer des connaissances interdites, ou à s’engager dans des quêtes périlleuses pour mériter les trésors cachés de ce lieu énigmatique.
 
 ### Extérieur de la tour
+
+![](../assets/images/tour-des-sorcieres.webp){.center}
 
 La Tour des Sorcières est un édifice imposant et sombre, dont les pierres noires semblent absorber la lumière du soleil. Haute et élancée, la tour domine les environs du Quartier Noble, offrant une vue imprenable sur la ville et la mer. Des runes énigmatiques scintillent faiblement sur ses murs à la tombée de la nuit, rappelant à tous que ce lieu est imprégné de magie.
 
@@ -20,9 +22,9 @@ Au centre de la pièce principale se trouve une immense table circulaire en obsi
 
 #### Lux Seoni, maîtresse de la Tour
 
-![](/assets/images/lux-seoni.webp){.float-right .img-150}
+![](../assets/images/lux-seoni.webp){.float-right .img-150}
 
-[Lux Seoni](/pnj/lux-seoni/) est une femme d’une beauté froide et inquiétante. Grande, mince, et toujours vêtue de robes sombres ornées de motifs étoilés, elle dégage une aura d’autorité et de mystère. Ses cheveux noirs flottent parfois comme s’ils étaient portés par un vent invisible, et ses yeux argentés semblent capables de scruter l’âme de quiconque ose croiser son regard. Lux est connue pour son calme glacial et son immense savoir. Cependant, sa présence suffit à mettre mal à l’aise la plupart des gens, même les autres membres de la guilde. Elle parle peu, mais chaque mot qu’elle prononce semble chargé de puissance et de signification.
+[Lux Seoni](../pnj/lux-seoni.md) est une femme d’une beauté froide et inquiétante. Grande, mince, et toujours vêtue de robes sombres ornées de motifs étoilés, elle dégage une aura d’autorité et de mystère. Ses cheveux noirs flottent parfois comme s’ils étaient portés par un vent invisible, et ses yeux argentés semblent capables de scruter l’âme de quiconque ose croiser son regard. Lux est connue pour son calme glacial et son immense savoir. Cependant, sa présence suffit à mettre mal à l’aise la plupart des gens, même les autres membres de la guilde. Elle parle peu, mais chaque mot qu’elle prononce semble chargé de puissance et de signification.
 
 ***Interactions avec Lux Seoni.*** Lux ne rencontre que rarement les visiteurs, sauf si leur demande présente un intérêt particulier pour la guilde ou pour elle-même. Lorsqu’elle accepte une audience, c’est dans une salle d’audience circulaire, entourée de miroirs enchantés qui reflètent des images du passé ou des visions de l’avenir. Elle parle avec une voix basse et mesurée, posant souvent plus de questions qu’elle ne donne de réponses. Ceux qui osent lui manquer de respect ressentent un froid surnaturel envahir la pièce, signe qu’ils sont en danger.
 
@@ -43,9 +45,3 @@ Lux est entourée de légendes. On raconte qu’elle a autrefois défendu Sasser
 ### Ambiance sonore et olfactive
 
 Un léger bourdonnement magique emplit l’air, comme une vibration subtile à la limite de l’audible. Une odeur de parchemin ancien, de cire d’abeille et d’ozone flotte dans la tour, rappelant la proximité constante de forces mystiques.
-
----
-
-## PNJ liés
-
-- [Lux Seoni](/pnj/lux-seoni/) - maîtresse de la guilde des arcanistes

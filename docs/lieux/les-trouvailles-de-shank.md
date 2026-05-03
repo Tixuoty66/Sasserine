@@ -1,10 +1,12 @@
-# Les Trouvailles de Shank (armes bon marché)
+# Les Trouvailles de Shank
 
-![](/assets/images/trouvailles-de-shank.webp){.center}
+![](../assets/images/fiche-les-trouvailles-de-shank.webp){.center}
 
 Les Trouvailles de Shank sont l’un de ces commerces d’Ombrerive dont on se demande, en le voyant, s’il va s’effondrer avant la fin de la semaine ou s’il tiendra encore cinquante ans par pure malveillance. C’est une échoppe d’armes bon marché, de bric et de broc martial, de ferraille rafistolée et de lames douteuses, fréquentée par les matamores sans le sou, les coupe-jarrets prudents, les dockers qui veulent une protection rapide, et les aventuriers assez fauchés - ou assez curieux - pour fouiller dans les piles instables de son improbable marchandise.
 
 ### Extérieur des Trouvailles de Shank
+
+![](../assets/images/les-trouvailles-de-shank.webp){.center}
 
 La boutique est coincée entre un marchand de cordes moisies et une masure murée dont personne ne revendique la propriété. Sa façade penche vers la ruelle comme un vieillard indiscret. Les planches noircies de son devant sont couvertes d’entailles, d’anciens clous et de traces de peinture écaillée. Une enseigne bringuebalante représente une main tenant trois dagues, mais deux ont été repeintes par-dessus, si bien qu’on dirait désormais un bouquet de couteaux mal élevés.
 
@@ -20,11 +22,11 @@ Au fond de la boutique, un rideau graisseux masque une arrière-salle où sont e
 
 #### Shank et ceux qui traînent chez lui
 
-![](/assets/images/shank.webp){.float-right .img-150}
+![](../assets/images/shank.webp){.float-right .img-150}
 
-Le propriétaire, [Shank](/pnj/shank/), est un homme sec, nerveux, au nez cassé, à la barbe rare et aux doigts noircis par le métal, l’huile et la suie. Il a le sourire de ceux qui mentent par réflexe, mais pas forcément par méchanceté. Toujours vêtu d’un tablier de cuir mangé de brûlures, il se déplace dans son échoppe avec une aisance de rat dans les cloisons. Shank parle vite, jure souvent, flatte les clients avec insolence et prétend que chacune de ses lames a “une histoire”, ce qui est parfois vrai et souvent inquiétant.
+Le propriétaire, [Shank](../pnj/shank.md), est un homme sec, nerveux, au nez cassé, à la barbe rare et aux doigts noircis par le métal, l’huile et la suie. Il a le sourire de ceux qui mentent par réflexe, mais pas forcément par méchanceté. Toujours vêtu d’un tablier de cuir mangé de brûlures, il se déplace dans son échoppe avec une aisance de rat dans les cloisons. Shank parle vite, jure souvent, flatte les clients avec insolence et prétend que chacune de ses lames a “une histoire”, ce qui est parfois vrai et souvent inquiétant.
 
-Shank emploie aussi un neveu taciturne, [Bren](/pnj/bren/), adolescent massif à l’air buté, qui trie les lots, redresse les clous, passe la pierre sur les tranchants et teste la solidité des manches à coups violents sur une souche à l’arrière. Bren parle peu, mais il observe les clients avec l’intensité d’un chien de garde qui essaie de deviner lequel va voler.
+Shank emploie aussi un neveu taciturne, [Bren](../pnj/bren.md), adolescent massif à l’air buté, qui trie les lots, redresse les clous, passe la pierre sur les tranchants et teste la solidité des manches à coups violents sur une souche à l’arrière. Bren parle peu, mais il observe les clients avec l’intensité d’un chien de garde qui essaie de deviner lequel va voler.
 
 La clientèle des Trouvailles de Shank est presque un spectacle à elle seule. On y croise des nervis venus acheter de quoi impressionner, des gardes privés mal payés, des marins qui veulent un coutelas “suffisamment dissuasif”, des voyous cherchant à revendre discrètement une arme tachée, et parfois un aventurier débutant assez naïf pour croire avoir découvert une mine d’or. L’endroit sent l’affaire louche, la mauvaise foi et la rixe imminente, mais il reste étonnamment populaire.
 
@@ -45,10 +47,3 @@ Ce que tout le monde admet, en revanche, c’est que Shank a un instinct remarqu
 ### Ambiance sonore et olfactive
 
 Ici, tout cliquette, racle, tinte ou cogne. On entend le heurt des lames qu’on déplace, le crissement de la pierre à aiguiser, le choc d’un marteau sur une garde tordue, le raclement d’une caisse qu’on traîne sur le sol, et la voix nasillarde de Shank vantant une arme “presque neuve” avec un aplomb admirable. L’air sent le fer froid, l’huile rance, le cuir mouillé, la poussière, la suie et, par moments, une pointe de vinaigre utilisé pour gratter la rouille. C’est l’odeur d’un arsenal de seconde main, de la débrouille armée, et des mauvais quartiers qui préfèrent une lame médiocre à des mains vides.
-
----
-
-## PNJ liés
-
-- [Shank](/pnj/shank/) - Le propriétaire
-- [Bren](/pnj/bren/) - Employé taciturne
