@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Carte du Quartier Cudgel</title>
+
+  <link rel="stylesheet" href="../assets/stylesheets/extra.css">
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #1e2129;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .interactive-map {
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+      background: #1e2129;
+      overflow: hidden;
+    }
+
+    .map-stage {
+      position: absolute;
+      inset: 12px;
+    }
+
+    .map-image {
+      position: absolute;
+      display: block;
+      box-shadow: 0 16px 40px rgba(0,0,0,.35);
+      border-radius: 12px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="interactive-map">
+    <div class="map-stage" id="map-stage">
+
+      <img
+        id="map-image"
+        class="map-image"
+        src="../assets/images/quartier-cudgel.webp"
+        alt="Carte du Quartier Cudgel"
+        data-native-width="1096"
+        data-native-height="1853"
+      >
+
+      <a class="map-icon map-back"
+         data-x="910"
+         data-y="760"
+         href="sasserine.html">
+        <span class="map-back-label">Sasserine</span>
+      </a>
+
+      <!-- Icône quartier -->
+      <a class="map-icon map-icon-special"
+         data-x="910"
+         data-y="810"
+         href="../quartiers/cudgel/">
+        <span class="icon-wrap">
+          <img src="../assets/icons/quartier.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="icon-label">Quartier Cudgel</span>
+        <span class="tooltip">
+          <strong>Présentation du quartier</strong>
+        </span>
+      </a>
+
+      <!-- Phare de Cudgel -->
+      <a class="map-icon icon-monument tooltip-right tooltip-below"
+         data-x="99"
+         data-y="28"
+         href="../lieux/phare-de-cudgel/">
+        <span class="icon-wrap">
+          <img src="../assets/icons/monument.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Phare de Cudgel</strong>
+          Un repère visible et symbolique du quartier.
+        </span>
+      </a>
+
+      <!-- Guilde des Charpentiers -->
+      <a class="map-icon icon-guilde tooltip-right"
+         data-x="133"
+         data-y="210"
+         href="../lieux/guilde-des-charpentiers/">
+        <span class="icon-wrap">
+          <img src="../assets/icons/guilde.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Guilde des Charpentiers</strong>
+          Une guilde importante dans un quartier de bâtisseurs, d’artisans et de travailleurs vigilants.
+        </span>
+      </a>
+
+      <!-- Les Curiosités d'Enad -->
+      <a class="map-icon icon-commerce tooltip-right"
+         data-x="97"
+         data-y="312"
+         href="../lieux/les-curiosites-d-enad/">
+        <span class="icon-wrap">
+          <img src="../assets/icons/commerce.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Les Curiosités d'Enad</strong>
+          Une boutique de curiosités où l’on trouve parfois bien plus que de simples bibelots.
+        </span>
+      </a>
+
+      <!-- Temple de la Fureur Tourbillonnante -->
+      <a class="map-icon icon-temple"
+         data-x="282"
+         data-y="366"
+         href="../lieux/temple-de-la-fureur-tourbillonnante/">
+        <span class="icon-wrap">
+          <img src="../assets/icons/temple.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>Temple de la Fureur Tourbillonnante</strong>
+          Un temple mystérieux, entouré de rumeurs et de portes closes.
+        </span>
+      </a>
+
+      <!-- La Veine d'Argent -->
+      <a class="map-icon icon-taverne"
+         data-x="339"
+         data-y="354"
+         href="../lieux/la-veine-d-argent/">
+        <span class="icon-wrap">
+          <img src="../assets/icons/taverne.svg" class="map-svg-icon" alt="">
+        </span>
+        <span class="tooltip">
+          <strong>La Veine d'Argent</strong>
+          Une taverne du Quartier Cudgel.
+        </span>
+      </a>
+
+    </div>
+  </div>
+
+  <script>
+    function layoutMap() {
+      const stage = document.getElementById('map-stage');
+      const img = document.getElementById('map-image');
+
+      const nativeW = 1096;
+      const nativeH = 1853;
+
+      const stageW = stage.clientWidth;
+      const stageH = stage.clientHeight;
+
+      const scale = Math.min(stageW / nativeW, stageH / nativeH);
+
+      const renderW = nativeW * scale;
+      const renderH = nativeH * scale;
+
+      const offsetX = (stageW - renderW) / 2;
+      const offsetY = (stageH - renderH) / 2;
+
+      img.style.width = renderW + 'px';
+      img.style.height = renderH + 'px';
+      img.style.left = offsetX + 'px';
+      img.style.top = offsetY + 'px';
+
+      document.querySelectorAll('.map-icon').forEach(el => {
+        const x = parseFloat(el.dataset.x);
+        const y = parseFloat(el.dataset.y);
+
+        el.style.left = (offsetX + x * scale) + 'px';
+        el.style.top = (offsetY + y * scale) + 'px';
+      });
+    }
+
+    window.addEventListener('load', layoutMap);
+    window.addEventListener('resize', layoutMap);
+  </script>
+</body>
+</html>
